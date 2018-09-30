@@ -35,7 +35,7 @@ Article Title, Journal Title
 ### Books
 
 `1994`
-Book Title, Journal Title
+Book Title 1, Journal Title
 
 `1994`
 Book Title, Journal Title
