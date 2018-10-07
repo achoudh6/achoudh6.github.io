@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: #Add title (if reqd)
+title: 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -11,10 +11,10 @@ owner:
   bio: "Grad student @NC State."
   email: achoudh6@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
+  twitter: achoudh6
+  linkedin: ayushchoudhary
   github: achoudh6
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0003-3133-7207
   researchgate: #username
   mendeley: #username
   google:
