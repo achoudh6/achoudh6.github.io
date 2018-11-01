@@ -7,12 +7,12 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - Current`
+__North Carolina State University, Raleigh NC__
+M.s
 
-`1995 - 1997`
-__University Name__
+`2011 - 2015`
+__VIT  University, Vellore__
 Degree Awarded 
 
 ## Awards
@@ -50,7 +50,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Makerspace Assistant__, NCSU Libraries 
 
 - Task
 - Task
