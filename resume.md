@@ -9,11 +9,11 @@ Current Position Description
 
 `2017 - Current`
 __North Carolina State University, Raleigh NC__
-M.s
+MS, Mechanical Engineering
 
 `2011 - 2015`
 __VIT  University, Vellore__
-Degree Awarded 
+B.Tech, Mechanical Engineering (with specialization in Energy Engineering)
 
 ## Awards
 
@@ -52,10 +52,10 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 `Current`
 __Makerspace Assistant__, NCSU Libraries 
 
-- Task
-- Task
+- 3D printing support on the Lulzbot Taz 6, Formlabs Form 2, Stratasys UPrint SEPlus. 
+- Troubleshooting and feedback in relation to FDM/SLA part design and print feasibility.
 
-`1994-1996`
+`Aug 2018-Present`
 __Current Job Title__, Current Employer 
 
 - Task
@@ -65,6 +65,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2018 -->
 
 
