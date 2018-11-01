@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
 
 ## Education
 
