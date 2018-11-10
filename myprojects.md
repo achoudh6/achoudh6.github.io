@@ -43,6 +43,6 @@ __Characterization of AISI 904L joints__
 Superaustenitic stainless steel joints development for the marine industry
 
 `Year1 - Year 2`
-_Project 2_
-Project description
+#### Project 2
+Description
 
