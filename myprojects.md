@@ -1,18 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
-
-## Academic Projects
-
-`Year1 - Year2`
-__Project 1__
-Project description
-
-`Year1 - Year 2`
-__Project 2__
-Project description
-
 
 ## Publications
 1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
@@ -49,4 +37,14 @@ DOI: [10.1557/jmr.2015.209](https://doi.org/10.1557/jmr.2015.209)
 Procedia Materials Science
 2014 | journal-article
 DOI: [10.1016/j.mspro.2014.07.332](https://doi.org/10.1016/j.mspro.2014.07.332)
+
+## Academic Projects
+
+`Year1 - Year2`
+__Project 1__
+Project description
+
+`Year1 - Year 2`
+__Project 2__
+Project description
 
