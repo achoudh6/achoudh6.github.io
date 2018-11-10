@@ -5,14 +5,8 @@
 - title: Resume
   url: /resume/
   
-- title: Courses
-  url: /courses/
-  
-  - title: Projects
+- title: Projects
   url: /myprojects/
-  
-  - title: Other Interests
-  url: /other/
   
 - title: Presentations
   url: /presentations/
