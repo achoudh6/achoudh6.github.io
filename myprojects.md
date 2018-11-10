@@ -36,9 +36,9 @@ DOI: [10.1016/j.mspro.2014.07.332](https://doi.org/10.1016/j.mspro.2014.07.332)
 
 ## Academic Projects
 
-`Year1 - Year2`
-__Project 1__
-Project description
+`2013 - 2015`
+__Characterization of AISI 904L joints__
+Superaustenitic stainless steel joints development for the marine industry
 
 `Year1 - Year 2`
 __Project 2__
