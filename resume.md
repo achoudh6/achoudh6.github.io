@@ -8,7 +8,7 @@ Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
 ## Education
 
 `2017 - Current`
-__North Carolina State University, Raleigh NC__
++ __North Carolina State University, Raleigh NC__
 - MS, Mechanical Engineering
 
 `2011 - 2015`
