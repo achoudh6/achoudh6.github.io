@@ -1,9 +1,9 @@
 ---
 layout: resume
 ---
-<!---
-No Title
--->
+
+<!---No Title-->
+
 ## Currently
 
 Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
