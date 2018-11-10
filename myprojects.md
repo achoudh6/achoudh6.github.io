@@ -2,6 +2,7 @@
 1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
  | Engineering Failure Analysis 2019
  | DOI: [10.1016/j.engfailanal.2018.09.028](https://doi.org/10.1016/j.engfailanal.2018.09.028)
+ <a href="https://doi.org/10.1016/j.engfailanal.2018.09.028" target="_blank">DOI: 10.1016/j.engfailanal.2018.09.028</a>
 
 2. Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel
  | Journal of Materials Research 2015
