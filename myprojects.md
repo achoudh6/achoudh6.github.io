@@ -5,8 +5,8 @@ title: Please work
 -->
 
 ## Publicati
-1. *Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler*
- | Engineering Failure Analysis 2019
+1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
+ | *Engineering Failure Analysis* 2019
  | DOI:<a href="https://doi.org/10.1016/j.engfailanal.2018.09.028" target="_blank">10.1016/j.engfailanal.2018.09.028</a>
  
  <!---
