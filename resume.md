@@ -8,11 +8,11 @@ Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
 ## Education
 
 `2017 - Current`
-+ __North Carolina State University, Raleigh NC__
+__+ North Carolina State University, Raleigh NC__
 - MS, Mechanical Engineering
 
 `2011 - 2015`
-__VIT  University, Vellore__
+__+ VIT  University, Vellore__
 - B.Tech, Mechanical Engineering (with specialization in Energy Engineering)
 
 
