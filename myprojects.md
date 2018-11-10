@@ -3,7 +3,7 @@
 title: Please work 
 
 ## Publicati
-1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
+1. *Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler*
  | Engineering Failure Analysis 2019
  | DOI:<a href="https://doi.org/10.1016/j.engfailanal.2018.09.028" target="_blank">10.1016/j.engfailanal.2018.09.028</a>
  
@@ -12,11 +12,11 @@ title: Please work
 and here
 -->
 
-2. Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel
+2. *Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel*
  | Journal of Materials Research 2015
  | DOI:<a href="https://doi.org/10.1557/jmr.2015.111" target="_blank">10.1557/jmr.2015.111</a>
 
-3. Effect of autogeneous GTA welding with and without flux addition on the microstructure and mechanical properties of AISI 904L joints
+3. *Effect of autogeneous GTA welding with and without flux addition on the microstructure and mechanical properties of AISI 904L joints*
  | Materials Science and Engineering A 2015
  | DOI:<a href="https://doi.org/10.1016/j.msea.2015.03.072" target="_blank">10.1016/j.msea.2015.03.072</a>
 
