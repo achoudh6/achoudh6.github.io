@@ -16,7 +16,7 @@ __VIT  University, Vellore__
 - B.Tech, Mechanical Engineering (with specialization in Energy Engineering)
 
 
-## Occupation
+## Experience
 
 `Aug 2018-Present`
 __Makerspace Assistant__, NCSU Libraries 
