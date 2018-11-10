@@ -10,6 +10,7 @@ Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
 `2017 - Current`
 __North Carolina State University, Raleigh NC__
 - MS, Mechanical Engineering
+- Concentration: Structural Mechanics, Materials & Manufacturing
 
 `2011 - 2015`
 __VIT  University, Vellore__
@@ -43,7 +44,7 @@ __Engineer__, Yamaha Motor R&D India Pvt. Ltd. (YMRI)
 `May 2015-July 2016`
 __Graduate Engineer Trainee__, Yamaha Motor R&D India Pvt. Ltd. (YMRI)
 
-- Body Design Group: INDRA (Innovative & New Dev. through Responsible Analysis) Dept. 
+- Body Design Group: INDRA (Innovative & New Development through Responsible Analysis) Dept. 
 - Optimized product costs through engineered solutions custom made for domestic conditions. 
 - Worked on the localization of exported engineering materials through detailed study, analysis, and comparison of JIS & local standards pertaining to the target industry. 
 - Grew efficient in Espri 3D and other YMC-based production system principles. 
