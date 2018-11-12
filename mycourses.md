@@ -5,6 +5,7 @@ No Title
 ## Courses
 
 ### North Carolina State University 
+
 * MAE 533 Finite Element Analysis I
 * MAE 537 Mechanics Of Composite Structures
 * MAE 538 Smart Structures and Materials
@@ -15,10 +16,12 @@ No Title
 * ISE 589 Fundamentals of Additive Manufacturing
 
 ### VIT University
+
 * ABC1
 * ABC2
 
 ### Massive Open Online Courses (MOOCs)
+
 * ABC1
 * ABC2
 
