@@ -2,11 +2,8 @@
 ## Courses
 
 ### North Carolina State University 
-
-### North Carolina State University 
 * ABC1
 * ABC2
-
 ### VIT University
 * ABC1
 * ABC2
