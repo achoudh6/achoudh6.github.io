@@ -21,7 +21,6 @@ No Title
 * ABC2
 
 ### Massive Open Online Courses (MOOCs)
-
 * ABC1
 * ABC2
 
