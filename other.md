@@ -3,11 +3,11 @@ No Title
 -->
 
 ### Campus Involvement
-#### * North Carolina State University *
+#### - North Carolina State University
 * Secretary, MAE Graduate Student Association
 * Photo Correspondent, The Technician
 * Member, Photography Club
-#### * VIT University *
+- <H3> VIT University
 * Vice-Chair, American Society of Mechanical Engineers (ASME)
 * Vice-President, The Fine Arts Club (TFAC)
 
