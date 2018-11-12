@@ -1,13 +1,6 @@
-ASME<!---
+<!---
 No Title
 -->
-## Website under construction 
- 
-[](Comment 4)
-[//]: <> (Comment 5)
-[//]: # (Comment 6)
-
-## Other information
 
 ### Campus Involvement
 #### North Carolina State University
@@ -33,5 +26,5 @@ No Title
 
 ### Hobbies
 * 3D Printing
-* Sports: Cricket, Soccer, Table Tennis
+* Sports: Cricket, Soccer, Table Tennis, Rock Climbing
 * Cooking
