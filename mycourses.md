@@ -17,15 +17,33 @@ No Title
 
 ### VIT University - Vellore Institute of Technology
 
-* ABC1
-* ABC2
+* Applied Numerical Methods (MAT-205)
+* Basic German (Ger-101)
+* CAD/CAM (MEE-307)
+* Computational Fluid Dynamics Laboratory (MEE-438)
+* Energy Conservation, Audit and Management (MEE-429)
+* Energy Systems Modelling Laboratory (MEE-372)
+* Energy in Built Environment (MEE-327)
+* Engineering Thermodynamics (MEE-204)
+* Fluid Mechanics (MEE-206)
+* Heat and Mass Transfer (MEE-303)
+* Industrial Engineering and Management (MEE-308)
+* Kinematics of Machinery (MEE-215)
+* Manufacturing Processes (MEE- 234)
+* Materials Engineering and Technology (MEE-203)
+* Materials Science (Phy-102)
+* Operations Research (MEE-437)
+* Power Plant Engineering (MEE-228)
+* Principles of Mechanical Design (MEE-222)
+* Solar Thermal Power Engineering (MEE-416)
+* Thermal Engineering Systems (MEE-216)
+* Turbomachines (MEE-304)
 
 ### Massive Open Online Courses (MOOCs)
 
 * Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present
-
 * ASME Standards & Certification 
 | ASME (The American Society of Mechanical Engineers)
 | November 2016 – Present
