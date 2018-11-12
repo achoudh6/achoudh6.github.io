@@ -13,8 +13,6 @@ No Title
 * MAE 541 Advanced Solid Mechanics I
 * MAE 543 Fracture Mechanics
 * ISE 589 Fundamentals of Additive Manufacturing
-
-
 ### VIT University
 * ABC1
 * ABC2
