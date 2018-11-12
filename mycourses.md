@@ -15,7 +15,7 @@ No Title
 * MAE 543 Fracture Mechanics
 * ISE 589 Fundamentals of Additive Manufacturing
 
-### VIT University
+### VIT University - Vellore Institute of Technology
 
 * ABC1
 * ABC2
