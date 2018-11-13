@@ -41,6 +41,9 @@ No Title
 
 ### Massive Open Online Courses (MOOCs)
 
+* TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
+| edX
+| August 2018 – Present
 * Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present
