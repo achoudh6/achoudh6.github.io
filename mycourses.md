@@ -10,10 +10,12 @@ No Title
 * MAE 537 Mechanics Of Composite Structures
 * MAE 538 Smart Structures and Materials
 * MAE 539 Advanced Materials
-* MSE 540 Processing of Metallic Materials| |*( Taking at present )*
+* MSE 540 Processing of Metallic Materials
+| *(Taking this semester)*
 * MAE 541 Advanced Solid Mechanics I
 * MAE 543 Fracture Mechanics
-* ISE 589 Fundamentals of Additive Manufacturing |*( Taking this semester )*
+* ISE 589 Fundamentals of Additive Manufacturing 
+| *(Taking this semester)*
 
 ### VIT University - Vellore Institute of Technology
 
@@ -46,10 +48,10 @@ No Title
 | October 2018 – Present
 * MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 | edX
-| *( Taking at present )*
+| *(Learning currently)*
 * Introduction to Programming with MATLAB
 | Coursera
-|*( Taking at present )*
+| *(Learing currently)*
 * Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present
