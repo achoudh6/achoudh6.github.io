@@ -8,6 +8,7 @@ No Title
 * Member, Photography Club
 * Vice-Chair, American Society of Mechanical Engineers (ASME)
 * Vice-President, The Fine Arts Club (TFAC)
+* Microsoft Student Associate
 
 
 ### Volunteering
