@@ -6,6 +6,7 @@ No Title
 * Secretary, MAE Graduate Student Association
 * Photo Correspondent, The Technician
 * Member, Photography Club
+* Judges Panel, Enduro Student India
 * Vice-Chair, American Society of Mechanical Engineers (ASME)
 * Vice-President, The Fine Arts Club (TFAC)
 * Microsoft Student Associate
