@@ -49,15 +49,10 @@ No Title
 * MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 | edX
 | *(Learning currently)*
-<!---
-No Title
-* Introduction to Programming with MATLAB
-| Coursera
-| *(Learing currently)*
--->
+<!--- No Title * Introduction to Programming with MATLAB| Coursera| *(Learning currently)*-->
 * Excel/VBA for Creative Problem Solving
 | Coursera
-| *(Learing currently)*
+| *(Learning currently)*
 * Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present
