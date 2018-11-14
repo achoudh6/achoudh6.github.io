@@ -6,7 +6,7 @@ No Title
 * Secretary, MAE Graduate Student Association
 * Photo Correspondent, The Technician
 * Member, Photography Club
-* Judges Panel, Enduro Student India
+* Judging Panel, Enduro Student India
 * Vice-Chair, American Society of Mechanical Engineers (ASME)
 * Vice-President, The Fine Arts Club (TFAC)
 * Microsoft Student Associate
@@ -23,6 +23,7 @@ No Title
 * North Carolina Museum of Natural Sciences
 
 ### Hobbies
+* Cycling
 * 3D Printing
 * Sports: Cricket, Soccer, Table Tennis, Rock Climbing
 * Cooking
