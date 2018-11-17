@@ -35,36 +35,34 @@ No Title
 ## Academic Projects
 
 * Metal foams: Product Design
-| April 2018 – May 2018
+| `April 2018 – May 2018`
 
 * Programming a non-linear finite-element incremental approach for a Belleville washer
-| November 2017 – December 2017
+| `November 2017 – December 2017`
 
-- Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering"
-| October 2017 – December 2017
+* Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering"
+| `October 2017 – December 2017`
 
-- Piezolelectric Ultrasonic motors in Photography
-| April 2017 – May 2017
+* Piezolelectric Ultrasonic motors in Photography
+| `April 2017 – May 2017`
 
-5. Composite Structue analysis
-| 2017 – 2017
+* Composite Structue analysis
+| `2017 – 2017`
 
-6.  Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel
-| June 2014 – May 2015
+*  Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel
+| `June 2014 – May 2015`
 
-7. Studies on bimetallic combinations between stainless steel AISI 416 and Inconel 718
-| October 2014 – April 2015
+* Studies on bimetallic combinations between stainless steel AISI 416 and Inconel 718
+| `October 2014 – April 2015`
 
-8. Optimization of alloying additions in steel mills using mixed integer linear programming in MatLab
-| August 2014 – November 2014
+* Optimization of alloying additions in steel mills using mixed integer linear programming in MatLab
+| `August 2014 – November 2014`
 
-9. Failure analysis on ASTM SA 210C vertical furnace boiler water wall tubes exposed to high temperature furnace side
-| December 2013 – July 2014
+* Failure analysis on ASTM SA 210C vertical furnace boiler water wall tubes exposed to high temperature furnace side
+| `December 2013 – July 2014`
 
-10. Energetics of the cyclone 'Thane': A study in moist fluid thermodynamics
-| February 2014 – June 2014
+* Energetics of the cyclone 'Thane': A study in moist fluid thermodynamics
+| `February 2014 – June 2014`
 
-11. Design and analysis of an adjustable propeller-type Kaplan Turbine
-| August 2013 – November 2013`2013 - 2015`
-
-
+* Design and analysis of an adjustable propeller-type Kaplan Turbine
+| `August 2013 – November 2013`
