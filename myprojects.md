@@ -34,16 +34,16 @@ No Title
 
 ## Academic Projects
 
-1. Metal foams: Product Design
+* Metal foams: Product Design
 | April 2018 – May 2018
 
-2. Programming a non-linear finite-element incremental approach for a Belleville washer
+* Programming a non-linear finite-element incremental approach for a Belleville washer
 | November 2017 – December 2017
 
-3. Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering"
+- Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering"
 | October 2017 – December 2017
 
-4. Piezolelectric Ultrasonic motors in Photography
+- Piezolelectric Ultrasonic motors in Photography
 | April 2017 – May 2017
 
 5. Composite Structue analysis
@@ -65,17 +65,6 @@ No Title
 | February 2014 – June 2014
 
 11. Design and analysis of an adjustable propeller-type Kaplan Turbine
-| August 2013 – November 2013
+| August 2013 – November 2013`2013 - 2015`
 
-
-
-
-
-__Characterization of AISI 904L joints__
-`2013 - 2015`
-Superaustenitic stainless steel joints development for the marine industry
-
-`Year1 - Year 2`
-#### Project 2
-Description
 
