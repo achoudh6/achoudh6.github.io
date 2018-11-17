@@ -34,6 +34,12 @@ No Title
 
 ## Academic Projects
 
+* Investment Casting – AM Ceramic shell printed casting tree
+| `Nov 2018 – Present`
+
+* Composite metal foams: Thermal shielding simulation
+| `Sep 2018 – Oct 2018`
+
 * Metal foams: Product Design
 | `April 2018 – May 2018`
 
@@ -47,7 +53,7 @@ No Title
 | `April 2017 – May 2017`
 
 * Composite Structue analysis
-| `2017 – 2017`
+| `May 2017 – May 2017`
 
 *  Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel
 | `June 2014 – May 2015`
