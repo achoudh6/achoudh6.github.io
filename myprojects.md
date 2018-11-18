@@ -34,7 +34,7 @@ No Title
 
 ## Academic Projects
 
-* Production of multiple parts by investment casting route using a liquid SLA-printed casting tree design 
+* Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design 
 | `Nov 2018 – Present`
 
 * Composite metal foams: Thermal shielding simulation
@@ -52,7 +52,7 @@ No Title
 * Piezolelectric Ultrasonic motors in Photography
 | `Apr 2017 – May 2017`
 
-* Composite Structue analysis
+* Structue analysis of a defined composite I-beam structure using ANSYS Composite PrepPost
 | `May 2017 – May 2017`
 
 *  Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel
