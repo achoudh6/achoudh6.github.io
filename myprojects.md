@@ -34,41 +34,41 @@ No Title
 
 ## Academic Projects
 
-* Investment Casting – AM Ceramic shell printed casting tree
+* Production of multiple parts by investment casting route using a liquid SLA-printed casting tree design 
 | `Nov 2018 – Present`
 
 * Composite metal foams: Thermal shielding simulation
 | `Sep 2018 – Oct 2018`
 
 * Metal foams: Product Design
-| `April 2018 – May 2018`
+| `Apr 2018 – May 2018`
 
 * Programming a non-linear finite-element incremental approach for a Belleville washer
-| `November 2017 – December 2017`
+| `Nov 2017 – Dec 2017`
 
 * Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering"
-| `October 2017 – December 2017`
+| `Oct 2017 – Dec 2017`
 
 * Piezolelectric Ultrasonic motors in Photography
-| `April 2017 – May 2017`
+| `Apr 2017 – May 2017`
 
 * Composite Structue analysis
 | `May 2017 – May 2017`
 
 *  Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel
-| `June 2014 – May 2015`
+| `Jun 2014 – May 2015`
 
 * Studies on bimetallic combinations between stainless steel AISI 416 and Inconel 718
-| `October 2014 – April 2015`
+| `Oct 2014 – Apr 2015`
 
 * Optimization of alloying additions in steel mills using mixed integer linear programming in MatLab
-| `August 2014 – November 2014`
+| `Aug 2014 – Nov 2014`
 
 * Failure analysis on ASTM SA 210C vertical furnace boiler water wall tubes exposed to high temperature furnace side
-| `December 2013 – July 2014`
+| `Dec 2013 – Jul 2014`
 
 * Energetics of the cyclone 'Thane': A study in moist fluid thermodynamics
-| `February 2014 – June 2014`
+| `Feb 2014 – Jun 2014`
 
 * Design and analysis of an adjustable propeller-type Kaplan Turbine
-| `August 2013 – November 2013`
+| `Aug 2013 – Nov 2013`
