@@ -37,7 +37,7 @@ No Title
 * Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design 
 | `Nov 2018 – Present`
 
-* Composite metal foams: Thermal shielding simulation
+* Simulation of composite metal foams subject to a pool fire test environment
 | `Sep 2018 – Oct 2018`
 
 * Metal foams: Product Design
