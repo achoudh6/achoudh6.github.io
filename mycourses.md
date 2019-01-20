@@ -11,11 +11,13 @@ No Title
 * MAE 538 Smart Structures and Materials
 * MAE 539 Advanced Materials
 * MSE 540 Processing of Metallic Materials
-| *(Taking this semester)*
 * MAE 541 Advanced Solid Mechanics I
 * MAE 543 Fracture Mechanics
-* ISE 589 Fundamentals of Additive Manufacturing 
-| *(Taking this semester)*
+* MAE 589 Digital Manufacturing
+| *(Spring 2019)*
+* ISE 589 Fundamentals of Additive Manufacturing
+* ISE 789 Advanced Metal Additive Manufacturing 
+| *(Spring 2019)*
 
 ### VIT University - Vellore Institute of Technology
 
