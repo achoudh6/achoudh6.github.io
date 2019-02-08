@@ -6,11 +6,11 @@ No Title
 
 ### Skills
 
-CAD- 3D Modelling in Solidworks
-Matlab, C++, 
-Experimentation- Digital Microscopy, tensile testing, Hardness testing, Impact testing, Fractography
-3D printers- Form 2, Lulzbot, 
-Additive Software- Meshmixer, Catalyst EX, Cura, 
+* CAD- 3D Modelling in Solidworks
+* Matlab, C++, 
+* Experimentation- Digital Microscopy, tensile testing, Hardness testing, Impact testing, Fractography
+* 3D printers- Form 2, Lulzbot, 
+* Additive Software- Meshmixer, Catalyst EX, Cura, 
 
 ### New Summary (Linked-In)
 
