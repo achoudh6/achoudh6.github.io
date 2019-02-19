@@ -7,23 +7,22 @@
 2nd way: I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 -->
 
-
 ## Courses
 
 ### North Carolina State University 
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 533 Finite Element Analysis I</span>
-* MAE 537 Mechanics Of Composite Structures
-* MAE 538 Smart Structures and Materials
-* MAE 539 Advanced Materials
-* MSE 540 Processing of Metallic Materials
-* MAE 541 Advanced Solid Mechanics I
-* MAE 543 Fracture Mechanics
-* MAE 589 Digital Manufacturing
-| *(Spring 2019)*
-* ISE 589 Fundamentals of Additive Manufacturing
-* ISE 789 Advanced Metal Additive Manufacturing 
-| *(Spring 2019)*
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 537 Mechanics Of Composite Structures</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 538 Smart Structures and Materials</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 539 Advanced Materials</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MSE 540 Processing of Metallic Materials</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 541 Advanced Solid Mechanics I</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 543 Fracture Mechanics</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 589 Digital Manufacturing
+| *(Spring 2019)*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 589 Fundamentals of Additive Manufacturing</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 789 Advanced Metal Additive Manufacturing 
+| *(Spring 2019)*</span>
 
 ### VIT University - Vellore Institute of Technology
 
@@ -106,7 +105,7 @@
 | October 2013 – Present
 * Introduction to Thermodynamics: Transferring Energy from Here to There 
 | Coursera 
-| August 2013 – Present
+| August 2013 – Present</span>
 
 <br /> 
 
