@@ -4,6 +4,8 @@ layout: resume
 
 <!---No Title-->
 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
+
 ## Currently
 
 Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
@@ -55,7 +57,7 @@ __Graduate Engineer Trainee__, Yamaha Motor R&D India Pvt. Ltd. (YMRI)
 
 
 
-
+<span>
 <!-- ### Footer
 
 Last updated: Nov 2018 -->
