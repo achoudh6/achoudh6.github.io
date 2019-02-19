@@ -18,5 +18,5 @@ _ Additive Manufacturing <br />
 
 #### *What am I doing these days?*
 
-_ Taking a graduate course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a> & sponsored by GE Additive. <br />
-_ Attending another course on Digital Manufacturing (MAE 589), centered around the concept of a Digital Twin. <br />
+_ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a>.<br />
+_ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a Digital Twin. <br />
