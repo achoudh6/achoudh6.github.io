@@ -16,7 +16,7 @@ Previous hands-on experience in experimental research during his undergraduate d
 Currently, in his 4th semester, he is seeking employment opportunities, starting June 2019.
 <br />
 
-#### *Current Interests and Projects:* 
+<h4><i> Current Interests and Projects:</i> </h4> 
 <br />
 
 _ Advanced Materials <br />
@@ -24,7 +24,7 @@ _ Material Joining Technology <br />
 _ Additive Manufacturing <br />
 <br />
 
-#### *What am I doing these days?*
+<h4><i>What am I doing these days?  </i></h4>
 <br />
 
 _ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a>.<br />
