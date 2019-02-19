@@ -9,7 +9,7 @@
 
 ## Courses
 
-### North Carolina State University 
+#### North Carolina State University 
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 533 Finite Element Analysis I</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 537 Mechanics Of Composite Structures</span>
@@ -24,7 +24,7 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 789 Advanced Metal Additive Manufacturing 
 | *(Spring 2019)*</span>
 
-### VIT University - Vellore Institute of Technology
+#### VIT University - Vellore Institute of Technology
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Applied Numerical Methods (MAT-205) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Basic German (Ger-101) </span>
@@ -48,7 +48,7 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Thermal Engineering Systems (MEE-216) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
-### Massive Open Online Courses (MOOCs)
+#### Massive Open Online Courses (MOOCs)
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
