@@ -105,5 +105,6 @@ No Title
 | Coursera 
 | August 2013 – Present
 
+<br /> 
 
-</span>
+</span> 
