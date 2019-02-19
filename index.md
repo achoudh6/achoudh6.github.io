@@ -11,9 +11,9 @@ Currently, in his 4th semester, he is seeking internship/full-time employment op
 
 #### *Current Interests and Projects:*
 
-_ Advanced Materials
-_ Material Joining Technology
-_ Additive Manufacturing
+_ Advanced Materials <br />
+_ Material Joining Technology <br />
+_ Additive Manufacturing <br />
 
 
 #### *What am I doing these days?*
