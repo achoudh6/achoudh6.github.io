@@ -18,9 +18,8 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 <h4><i> Current Interests and Projects:</i> </h4> 
 
 _ Advanced Materials <br />
-_ Material Joining Technology <br />
-_ Additive Manufacturing <br />
-<br />
+_ Material Joining Technology
+_ Additive Manufacturing
 
 <h4><i>What am I doing these days?  </i></h4>
 
