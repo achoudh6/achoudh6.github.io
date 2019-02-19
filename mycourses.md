@@ -103,4 +103,4 @@ No Title
 | August 2013 – Present
 
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
+<span>
