@@ -26,86 +26,85 @@
 
 ### VIT University - Vellore Institute of Technology
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 
-* Applied Numerical Methods (MAT-205)
-* Basic German (Ger-101)
-* CAD/CAM (MEE-307)
-* Computational Fluid Dynamics Laboratory (MEE-438)
-* Energy Conservation, Audit and Management (MEE-429)
-* Energy Systems Modelling Laboratory (MEE-372)
-* Energy in Built Environment (MEE-327)
-* Engineering Thermodynamics (MEE-204)
-* Fluid Mechanics (MEE-206)
-* Heat and Mass Transfer (MEE-303)
-* Industrial Engineering and Management (MEE-308)
-* Kinematics of Machinery (MEE-215)
-* Manufacturing Processes (MEE- 234)
-* Materials Engineering and Technology (MEE-203)
-* Materials Science (Phy-102)
-* Operations Research (MEE-437)
-* Power Plant Engineering (MEE-228)
-* Principles of Mechanical Design (MEE-222)
-* Solar Thermal Power Engineering (MEE-416)
-* Thermal Engineering Systems (MEE-216)
-* Turbomachines (MEE-304)</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Applied Numerical Methods (MAT-205) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Basic German (Ger-101) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">CAD/CAM (MEE-307) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Computational Fluid Dynamics Laboratory (MEE-438) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Energy Conservation, Audit and Management (MEE-429) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Energy Systems Modelling Laboratory (MEE-372) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Energy in Built Environment (MEE-327) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Engineering Thermodynamics (MEE-204) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Fluid Mechanics (MEE-206) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Heat and Mass Transfer (MEE-303) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Industrial Engineering and Management (MEE-308) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Kinematics of Machinery (MEE-215) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Manufacturing Processes (MEE- 234) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Materials Engineering and Technology (MEE-203) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Materials Science (Phy-102) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Operations Research (MEE-437) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Power Plant Engineering (MEE-228) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Principles of Mechanical Design (MEE-222) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Solar Thermal Power Engineering (MEE-416) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Thermal Engineering Systems (MEE-216) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
 ### Massive Open Online Courses (MOOCs)
 
-* TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
-| October 2018 – Present
-* MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
+| October 2018 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 | edX
-| *(Learning currently)*
+| *(Learning currently)* </span>
 <!---Introduction to Programming with MATLAB| Coursera|(Learning currently)-->
-* Excel/VBA for Creative Problem Solving
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Excel/VBA for Creative Problem Solving
 | Coursera
-| *(Learning currently)*
-* Nanotechnology: A Maker’s Course
+| *(Learning currently)* </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Nanotechnology: A Maker’s Course
 | Coursera
-| December 2017 – Present
-* ASME Standards & Certification 
+| December 2017 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">ASME Standards & Certification 
 | ASME (The American Society of Mechanical Engineers)
-| November 2016 – Present
-* Introduction to Additive Manufacturing 
+| November 2016 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Additive Manufacturing 
 | ASME (The American Society of Mechanical Engineers) 
-| November 2016 – Present
-* Analysis and Modelling of Welding 
+| November 2016 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Analysis and Modelling of Welding 
 | NPTEL 
-| April 2016 – Present
-* Materials Science: 10 Things Every Engineer Should Know 
+| April 2016 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Materials Science: 10 Things Every Engineer Should Know 
 | Coursera
-| February 2016 – Present
-* IIMBx: QM101.1x Statistics for Business - I 
+| February 2016 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">IIMBx: QM101.1x Statistics for Business - I 
 | edX 
-| September 2015 – Present
-* TUMx: QEMx Quality Engineering and Management 
+| September 2015 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TUMx: QEMx Quality Engineering and Management 
 | edX 
-| September 2015 – Present
-* TenarisUniversityX: STEEL101x Introduction to Steel 
+| September 2015 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: STEEL101x Introduction to Steel 
 | edX 
-| September 2015 – Present
-* ChM001x: Introduction to Graphene Science and Technology 
+| September 2015 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">ChM001x: Introduction to Graphene Science and Technology 
 | edX 
-| June 2015 – Present
-* MITx: 3.032x Mechanical Behavior of Materials 
+| June 2015 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 3.032x Mechanical Behavior of Materials 
 | edX 
-| August 2014 – Present
-* C# Fundamentals for Absolute Beginners 
+| August 2014 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">C# Fundamentals for Absolute Beginners 
 | Microsoft 
-| July 2014 – Present
-* Climate Change 
+| July 2014 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Climate Change 
 | Coursera 
-| December 2013 – Present
-* New Models of Business in Society 
+| December 2013 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">New Models of Business in Society 
 | Coursera 
-| November 2013 – Present
-* Microeconomics Principles 
+| November 2013 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Microeconomics Principles 
 | Coursera 
-| October 2013 – Present
-* Introduction to Thermodynamics: Transferring Energy from Here to There 
+| October 2013 – Present </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Thermodynamics: Transferring Energy from Here to There 
 | Coursera 
-| August 2013 – Present</span>
+| August 2013 – Present </span>
 
 <br /> 
 
