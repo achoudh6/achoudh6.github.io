@@ -11,13 +11,13 @@ Currently, in his 4th semester, he is seeking internship/full-time employment op
 
 #### *Current Interests and Projects:*
 
-- Advanced Materials
-- Material Joining Technology
-- Additive Manufacturing
+_ Advanced Materials
+_ Material Joining Technology
+_ Additive Manufacturing
 
 
 #### *What am I doing these days?*
 
-Taking a graduate course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a> & sponsored by GE Additive. <br />
-Another grad course on Digital Manufacturing (MAE 589), centered around the concept of a Digital Twin. 
+_ Taking a graduate course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a> & sponsored by GE Additive. <br />
+_ Another grad course on Digital Manufacturing (MAE 589), centered around the concept of a Digital Twin. 
 
