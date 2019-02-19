@@ -1,6 +1,9 @@
 <!---
 No Title
 -->
+
+
+<div style="text-align: justify"> 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 
 ## Courses
