@@ -1,16 +1,18 @@
 <!---
-No Title
+1st way <div style="text-align: justify"> 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 -->
 
+<!---
+2nd way: I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+-->
 
-<div style="text-align: justify"> 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 
 ## Courses
 
 ### North Carolina State University 
 
-* MAE 533 Finite Element Analysis I
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 533 Finite Element Analysis I</span>
 * MAE 537 Mechanics Of Composite Structures
 * MAE 538 Smart Structures and Materials
 * MAE 539 Advanced Materials
@@ -25,6 +27,7 @@ No Title
 
 ### VIT University - Vellore Institute of Technology
 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 
 * Applied Numerical Methods (MAT-205)
 * Basic German (Ger-101)
 * CAD/CAM (MEE-307)
@@ -46,7 +49,7 @@ No Title
 * Solar Thermal Power Engineering (MEE-416)
 * Thermal Engineering Systems (MEE-216)
 * Turbomachines (MEE-304)
-
+</span>
 ### Massive Open Online Courses (MOOCs)
 
 * TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
@@ -107,4 +110,3 @@ No Title
 
 <br /> 
 
-</span> 
