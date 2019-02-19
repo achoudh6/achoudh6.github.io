@@ -14,8 +14,8 @@ Ayush is pursuing a Master's degree in Mechanical Engineering at NC State Univer
 Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests include structural materials & advanced alloys, welding metallurgy, material testing & characterization, deformation & fracture mechanisms, additive manufacturing. <br />
 <br />
 Currently, in his 4th semester, he is seeking employment opportunities, starting June 2019.
-</span> 
-</div>
+
+
 
 
 #### *Current Interests and Projects:*
@@ -31,5 +31,9 @@ _ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a h
 _ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html
 ">Digital Twin</a>. <br /> 
 
+
+
+</div>
+</span> 
 
 
