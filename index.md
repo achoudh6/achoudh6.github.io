@@ -18,6 +18,7 @@ Currently, in his 4th semester, he is seeking internship/full-time employment op
 
 #### *What am I doing these days?*
 
-Taking a graduate course on Metal Additive Manufacturing (ISE 789), taught at CAMAL & sponsored by GE Additive. 
+Taking a graduate course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a> & sponsored by GE Additive. 
 Another grad course on Digital Manufacturing (MAE 589), centered around the concept of a Digital Twin. 
+ | 
 
