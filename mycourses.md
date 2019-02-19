@@ -49,7 +49,9 @@
 * Solar Thermal Power Engineering (MEE-416)
 * Thermal Engineering Systems (MEE-216)
 * Turbomachines (MEE-304)
+
 </span>
+
 ### Massive Open Online Courses (MOOCs)
 
 * TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
