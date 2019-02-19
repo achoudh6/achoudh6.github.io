@@ -7,7 +7,7 @@
 2nd way: I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 -->
 
-## Courses
+### Courses
 
 #### North Carolina State University 
 
