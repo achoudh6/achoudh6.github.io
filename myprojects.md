@@ -2,7 +2,7 @@
 No Title
 -->
 
-## Publications
+### Publications
 
 1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
  | *Engineering Failure Analysis 2019*
@@ -32,7 +32,7 @@ No Title
  | *Procedia Materials Science 2014*
  | DOI:<a href="https://doi.org/10.1016/j.mspro.2014.07.332" target="_blank">10.1016/j.mspro.2014.07.332</a>
 
-## Academic Projects
+### Academic Projects
 
 * Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design 
 | `Nov 2018 – Present`
