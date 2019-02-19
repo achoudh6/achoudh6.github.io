@@ -103,4 +103,4 @@ No Title
 | August 2013 – Present
 
 
-<span>
+</span>
