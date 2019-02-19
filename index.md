@@ -2,7 +2,7 @@
 layout: page
 excerpt: "About Me"
 ---
-
+font-family: "San Francisco", "Roboto", "Segoe UI";
 <div style="text-align: justify"> 
   
 Ayush is pursuing a Master's degree in Mechanical Engineering at NC State University with a research concentration in structural mechanics, materials & manufacturing. He is a member of Dr. Afsaneh Rabiei's <a href="https://people.engr.ncsu.edu/arabiei/">Advanced Materials Research Laboratory</a> (AMRL) & his research is focused on Composite Metal Foams (CMFs) in conjunction with a Dept. of Transportation (DoT) funded project.<br />
