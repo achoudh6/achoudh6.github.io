@@ -17,7 +17,6 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 <br />
 
 <h4><i> Current Interests and Projects:</i> </h4> 
-<br />
 
 _ Advanced Materials <br />
 _ Material Joining Technology <br />
@@ -25,13 +24,10 @@ _ Additive Manufacturing <br />
 <br />
 
 <h4><i>What am I doing these days?  </i></h4>
-<br />
 
 _ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a>.<br />
 _ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a>. 
 <br /> 
-
-
 
 </div>
 </span> 
