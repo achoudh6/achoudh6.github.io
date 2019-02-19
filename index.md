@@ -29,7 +29,6 @@ _ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a h
 _ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a>. 
 <br /> 
 
-</div>
 </span> 
 
 
