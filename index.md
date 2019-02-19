@@ -15,7 +15,7 @@ Previous hands-on experience in experimental research during his undergraduate d
 <br />
 Currently, in his 4th semester, he is seeking employment opportunities, starting June 2019.
 
-<h4><i> Current Interests and Projects:</i> </h4> 
+<h4>Current Interests and Projects:</h4> 
 _ Advanced Materials <br />
 _ Material Joining Technology<br />
 _ Additive Manufacturing
