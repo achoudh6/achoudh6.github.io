@@ -2,7 +2,7 @@
 No Title
 -->
 
-### Publications
+#### Publications
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
  | *Engineering Failure Analysis 2019*
@@ -33,11 +33,10 @@ No Title
  | DOI:<a href="https://doi.org/10.1016/j.mspro.2014.07.332" target="_blank">10.1016/j.mspro.2014.07.332</a> </span>
 
 
-### Academic Projects
+#### Academic Projects
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design  </span>
 | `Nov 2018 – Present`
-
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Simulation of composite metal foams subject to a pool fire test environment </span>
 | `Sep 2018 – Oct 2018`
 
