@@ -13,16 +13,16 @@ No Title
 
 
 #### Volunteering
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NASA Langley Research Center
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Make A Difference (MAD)
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State College of Engineering
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NCSU Libraries
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Indian Society for Technical Education
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Inter-Residence Council at NC State
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  North Carolina Museum of Natural Sciences
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NASA Langley Research Center </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Make A Difference (MAD) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State College of Engineering </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NCSU Libraries </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Indian Society for Technical Education </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Inter-Residence Council at NC State </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  North Carolina Museum of Natural Sciences </span>
 
 #### Hobbies
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cycling
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Photography
-*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Sports: Cricket, Soccer, Table Tennis, Rock Climbing
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cycling </span>
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Photography </span>
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Sports: Cricket, Soccer, Table Tennis, Rock Climbing </span>
