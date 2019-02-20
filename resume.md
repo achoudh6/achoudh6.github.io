@@ -4,13 +4,11 @@ layout: resume
 
 <!---No Title-->
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
+### Currently
 
-## Currently
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
 
-Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL)
-
-## Education
+### Education
 
 `2017 - Current`
 __North Carolina State University, Raleigh NC__
@@ -22,7 +20,7 @@ __VIT  University, Vellore__
 - B.Tech, Mechanical Engineering (with specialization in Energy Engineering)
 
 
-## Experience
+### Experience
 
 `Aug 2018-Present`
 __Makerspace Assistant__, NCSU Libraries 
@@ -57,9 +55,7 @@ __Graduate Engineer Trainee__, Yamaha Motor R&D India Pvt. Ltd. (YMRI)
 
 
 
-</span>
 <!-- ### Footer-->
-
 <!-- Last updated: Nov 2018 -->
 
 
