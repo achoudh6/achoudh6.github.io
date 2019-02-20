@@ -4,25 +4,25 @@ No Title
 
 #### Publications
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 1. Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
+1.<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
  | *Engineering Failure Analysis 2019*
  | DOI:<a href="https://doi.org/10.1016/j.engfailanal.2018.09.028" target="_blank">10.1016/j.engfailanal.2018.09.028</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 2. Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel*
+2.<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel*
  | *Journal of Materials Research 2015*
  | DOI:<a href="https://doi.org/10.1557/jmr.2015.111" target="_blank">10.1557/jmr.2015.111</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 3. Effect of autogeneous GTA welding with and without flux addition on the microstructure and mechanical properties of AISI 904L joints
+3. <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of autogeneous GTA welding with and without flux addition on the microstructure and mechanical properties of AISI 904L joints
  | *Materials Science and Engineering A 2015*
  | DOI:<a href="https://doi.org/10.1016/j.msea.2015.03.072" target="_blank">10.1016/j.msea.2015.03.072</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 4. Effect of Filler Metals on the Weldability and Mechanical Properties of Multi-pass PCGTA Weldments of AISI 316L
+4. <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of Filler Metals on the Weldability and Mechanical Properties of Multi-pass PCGTA Weldments of AISI 316L
  | *Journal of Materials Engineering and Performance 2015*
  | DOI:<a href="https://doi.org/10.1007/s11665-015-1418-0" target="_blank">10.1007/s11665-015-1418-0</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 5. Effect of flux addition on the microstructure and tensile strength of dissimilar weldments involving Inconel 718 and AISI 416
+5. <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of flux addition on the microstructure and tensile strength of dissimilar weldments involving Inconel 718 and AISI 416
  | *Materials and Design 2015*
  | DOI:<a href="https://doi.org/10.1016/j.matdes.2015.08.075" target="_blank">10.1016/j.matdes.2015.08.075</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 6. Studies on the weldability, microstructure and mechanical properties of flux assisted Nd:YAG laser welds of AISI 904L
+6. <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Studies on the weldability, microstructure and mechanical properties of flux assisted Nd:YAG laser welds of AISI 904L
  | *Journal of Materials Research 2015*
  | DOI:<a href="https://doi.org/10.1557/jmr.2015.209" target="_blank">10.1557/jmr.2015.209</a> </span>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 7. Experimental Study on Dry Sliding Wear Behaviour of Sintered Fe-C-W P/M Low Alloy Steels
+7. <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Experimental Study on Dry Sliding Wear Behaviour of Sintered Fe-C-W P/M Low Alloy Steels
  | *Procedia Materials Science 2014*
  | DOI:<a href="https://doi.org/10.1016/j.mspro.2014.07.332" target="_blank">10.1016/j.mspro.2014.07.332</a> </span>
 
