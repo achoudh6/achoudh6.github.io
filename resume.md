@@ -20,7 +20,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">B.Tech, Mechanical Engineering (with specialization in Energy Engineering) </span>
 
 
-### Experience
+## Experience
 
 `Aug 2018-Present`
  __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Makerspace Assistant, NCSU Libraries  </span>__
