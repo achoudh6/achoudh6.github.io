@@ -23,9 +23,9 @@ _ Additive Manufacturing
 <h4>What am I doing these days? </h4>
 _ Taking a grad course on Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a><br />
 _ MAE 586: Documenting existing lierature on assembly of metal-based cellular structures or foams <br />
-_ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a><br /> 
-_ Modelling practice for Solidworks CSWA exam  <br />
-_ MOOC: Machine Learning by Andrew NG <br />
+_ Attending another grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a> <br /> 
+_ Modelling practice for Solidworks <a href="https://www.solidworks.com/sw/support/796_enu_html.htm">CSWA</a> exam <br />
+_ <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> by Andrew Ng <br />
 
 </span> 
 
