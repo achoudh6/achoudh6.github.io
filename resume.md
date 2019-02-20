@@ -57,9 +57,9 @@ __Graduate Engineer Trainee__, Yamaha Motor R&D India Pvt. Ltd. (YMRI)
 
 
 
-<span>
-<!-- ### Footer
+</span>
+<!-- ### Footer-->
 
-Last updated: Nov 2018 -->
+<!-- Last updated: Nov 2018 -->
 
 
