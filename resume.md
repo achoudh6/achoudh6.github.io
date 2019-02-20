@@ -11,8 +11,7 @@ layout: resume
 ## Education
 
 `2017 - Current`
-__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
 
 `2011 - 2015`
