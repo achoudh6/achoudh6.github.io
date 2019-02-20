@@ -6,18 +6,18 @@ layout: resume
 
 ### Currently
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
 
 ### Education
 
 `2017 - Current`
-__North Carolina State University, Raleigh NC__
-- MS, Mechanical Engineering
-- Concentration: Structural Mechanics, Materials & Manufacturing
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
 
 `2011 - 2015`
-__VIT  University, Vellore__
-- B.Tech, Mechanical Engineering (with specialization in Energy Engineering)
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VIT  University, Vellore </span>__
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">B.Tech, Mechanical Engineering (with specialization in Energy Engineering) </span>
 
 
 ### Experience
