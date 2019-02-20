@@ -11,7 +11,8 @@ layout: resume
 ## Education
 
 `2017 - Current`
-__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
 
 `2011 - 2015`
@@ -22,7 +23,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 ### Experience
 
 `Aug 2018-Present`
-__Makerspace Assistant__, NCSU Libraries 
+ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Makerspace Assistant</span> __, NCSU Libraries 
 
 - 3D printing support on the Lulzbot Taz 6, Formlabs Form 2, Stratasys UPrint SEPlus. 
 - Troubleshooting and feedback in relation to FDM/SLA part design and print feasibility.
