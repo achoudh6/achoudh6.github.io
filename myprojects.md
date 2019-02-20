@@ -39,8 +39,8 @@ No Title
 | `Nov 2017 – Dec 2017`
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering" </span>
 | `Oct 2017 – Dec 2017`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Piezolelectric Ultrasonic motors in Photography </span>
-| `Apr 2017 – May 2017`
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Piezoelectric Ultrasonic motors in Photography </span>
+| `Apr 2018 – May 2018`
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Structure analysis of a defined composite I-beam structure using ANSYS Composite PrepPost </span>
 | `May 2017 – May 2017`
 *  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel </span>
