@@ -55,11 +55,11 @@
 | October 2018 – Present </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 | edX
-| *(Learning currently)* </span>
+| *(Learning)* </span>
 <!---Introduction to Programming with MATLAB| Coursera|(Learning currently)-->
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Excel/VBA for Creative Problem Solving
 | Coursera
-| *(Learning currently)* </span>
+| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present </span>
