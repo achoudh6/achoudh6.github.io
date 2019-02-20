@@ -4,11 +4,11 @@ layout: resume
 
 <!---No Title-->
 
-### Currently
+## Currently
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
 
-### Education
+## Education
 
 `2017 - Current`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
