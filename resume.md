@@ -28,7 +28,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> 3D printing support on the Lulzbot Taz 6, Formlabs Form 2, Stratasys UPrint SEPlus.  </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Troubleshooting and feedback in relation to FDM/SLA part design and print feasibility. </span>
 
-`Mar 2018-Present`
+`Dec 2017-Present`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Student Assistant – Access Services </span>__, NCSU Libraries 
 
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Customer service & help navigating the technology lending program.  </span>
