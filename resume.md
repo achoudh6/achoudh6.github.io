@@ -6,7 +6,7 @@ layout: resume
 
 ### Currently
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Graduate Student Researcher, Advanced Materials Research Laboratory (AMRL) </span> 
 
 ### Education
 
