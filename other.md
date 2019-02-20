@@ -2,28 +2,27 @@
 No Title
 -->
 
-### Leadership & Campus Involvement
-* Secretary, MAE Graduate Student Association
-* Photo Correspondent, The Technician
-* Member, Photography Club
-* Judging Panel, Enduro Student India
-* Vice-Chair, American Society of Mechanical Engineers (ASME)
-* Vice-President, The Fine Arts Club (TFAC)
-* Microsoft Student Associate
+#### Leadership & Campus Involvement
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Secretary, MAE Graduate Student Association </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Photo Correspondent, The Technician </span>v
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Member, Photography Club </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Judging Panel, Enduro Student India </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Vice-Chair, American Society of Mechanical Engineers (ASME) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Vice-President, The Fine Arts Club (TFAC) </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Microsoft Student Associate </span>
 
 
-### Volunteering
-* NASA Langley Research Center
-* Make A Difference (MAD)
-* NC State College of Engineering
-* NCSU Libraries
-* Indian Society for Technical Education
-* NC State Office of International Services
-* Inter-Residence Council at NC State
-* North Carolina Museum of Natural Sciences
+#### Volunteering
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NASA Langley Research Center
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Make A Difference (MAD)
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State College of Engineering
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NCSU Libraries
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Indian Society for Technical Education
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Inter-Residence Council at NC State
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  North Carolina Museum of Natural Sciences
 
-### Hobbies
-* Cycling
-* 3D Printing
-* Sports: Cricket, Soccer, Table Tennis, Rock Climbing
-* Cooking
+#### Hobbies
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cycling
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Photography
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Sports: Cricket, Soccer, Table Tennis, Rock Climbing
