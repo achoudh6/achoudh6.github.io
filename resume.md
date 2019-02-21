@@ -10,15 +10,17 @@ layout: resume
 
 ## Education
 
-`2017 - Current`
+`2017 - Expected May 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering (GPA – 3.8/4.0) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Affiliated with the Rabiei Research Group, Advanced Materials Research Lab (AMRL) </span>
 
 `2011 - 2015`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VIT  University, Vellore </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">B.Tech, Mechanical Engineering (with specialization in Energy Engineering) </span>
-
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> B.Tech, Mechanical Engineering (with specialization in Energy Engineering) (CGPA – 9.06/10.0) </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Thesis: Super-Austenitic Stainless-Steel Weldments (published in the Cambridge University Press) </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Affiliated with the Welding Research Group, Materials Engineering & Technology Lab (MET) </span>                 
 
 ## Experience
 
