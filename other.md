@@ -2,7 +2,7 @@
 No Title
 -->
 <style>  
-@import url('https://fonts.googleapis.com/css?family=Roboto');   
+@import url('https://fonts.googleapis.com/css?family=Arial');   
 </style>
 
 #### Leadership & Campus Involvement
