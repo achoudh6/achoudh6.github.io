@@ -15,8 +15,6 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Vice-President, The Fine Arts Club (TFAC-VIT) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Microsoft Student Associate (VIT) </span>
 
-</style>
-
 #### Volunteering
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NASA Langley Research Center </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Make A Difference (MAD) </span>
