@@ -24,8 +24,6 @@ No Title
 * Inter-Residence Council at NC State
 * North Carolina Museum of Natural Sciences!!!
 
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
 #### Hobbies
 * Cycling 
 * Photography
