@@ -1,13 +1,7 @@
 <!---
 No Title
 -->
- <style>
-      body {
-        font-family: 'Tangerine', serif;
-        font-size: 48px;
-      }
-    </style>
-    
+
 #### Leadership & Campus Involvement
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Secretary, MAE Graduate Student Association </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services </span>
@@ -26,17 +20,16 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State College of Engineering </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NCSU Libraries </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Indian Society for Technical Education </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services </span>  
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Inter-Residence Council at NC State </span>  
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina Museum of Natural Sciences </span>
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
-* Inter-Residence Council at NC State  * North Carolina Museum of Natural Sciences
-</span>
 
-font-family: 'Roboto', sans-serif;
 #### Hobbies
-* Cycling 
-* Photography
-* Sports: Cricket, Soccer, Table Tennis, Rock Climbing sdfs
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cycling </span>
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Photography </span>
+*  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Sports: Cricket, Soccer, Table Tennis, Rock Climbing </span>
+
 
 
 
