@@ -24,11 +24,12 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Inter-Residence Council at NC State </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina Museum of Natural Sciences </span>
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
+
 #### Hobbies
 * Cycling 
 * Photography
 * Sports: Cricket, Soccer, Table Tennis, Rock Climbing 
   
-  </span>
 
