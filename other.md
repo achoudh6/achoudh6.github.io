@@ -26,5 +26,5 @@ No Title
 
 #### Hobbies
 *  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cycling 
-*Photography
-*Sports: Cricket, Soccer, Table Tennis, Rock Climbing </span>
+* Photography
+* Sports: Cricket, Soccer, Table Tennis, Rock Climbing </span>
