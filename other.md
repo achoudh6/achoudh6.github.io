@@ -1,6 +1,8 @@
 <!---
 No Title
 -->
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 #### Leadership & Campus Involvement
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Secretary, MAE Graduate Student Association </span>
@@ -13,6 +15,7 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Vice-President, The Fine Arts Club (TFAC-VIT) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Microsoft Student Associate (VIT) </span>
 
+</style>
 
 #### Volunteering
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NASA Langley Research Center </span>
