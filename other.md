@@ -6,7 +6,7 @@ No Title
 </style>
 
 #### Leadership & Campus Involvement
-* Secretary, MAE Graduate Student Association
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Secretary, MAE Graduate Student Association </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> NC State Office of International Services </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Photo Correspondent, The Technician </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Member, Cultural Exchange Network (NCSU) </span>
