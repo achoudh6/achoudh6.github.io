@@ -2,7 +2,7 @@
 No Title
 -->
 <style>
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto'); </style>
 
 #### Leadership & Campus Involvement
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Secretary, MAE Graduate Student Association </span>
