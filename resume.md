@@ -52,6 +52,10 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Gr
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Created deliverables directly in relation to the development & procurement of 2-wheeler suspension systems </span>
 
 
+## Skills/Certifications
+
+Certified Solidworks Associate (CSWA)
+Skills: Solidworks, MatLab, Ansys, GibbsCAM, Autodesk Ecotect, Meshmixer ,Preform, Cura, CatalystEX, Fusion 360, Unity, Adobe Photoshop, Adobe Lightroom, 3D Printing, Excel/VBA, Photography, Photogrammetry, 3D Scanning, Refworks, Python, C, C++
 
 <!-- ### Footer-->
 <!-- Last updated: Nov 2018 -->
