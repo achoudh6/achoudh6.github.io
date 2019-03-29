@@ -27,7 +27,7 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 - Attending a grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a> <br /> 
 - Taking Solidworks <a href="https://www.solidworks.com/sw/support/796_enu_html.htm">certification tests</a> - CSWA, CSWP <br />
 - Fusion 360: Topology Optimization & Generative Design modules<br /> 
-- <a href="https://www.coursera.org/learn/machine-learning">Machine Learning MOOC</a> by Andrew Ng <br />
+- <a href="https://www.coursera.org/learn/machine-learning">Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
 
 </span> 
 
