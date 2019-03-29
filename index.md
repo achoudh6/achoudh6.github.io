@@ -22,7 +22,7 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 - Additive Manufacturing
 
 <h4>What am I doing these days (or semester) ?  </h4>
-- Fabricating SLS parts on EOS M280 as part of Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a><br />
+- Fabricating DMLS parts on EOS M280 as part of Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a><br />
 - MAE 586: Summarizing existing research on assembly of metal-based cellular structures (or foams) <br />
 - Attending a grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin</a> <br /> 
 - Taking Solidworks <a href="https://www.solidworks.com/sw/support/796_enu_html.htm">certification tests</a> - CSWA, CSWP <br />
