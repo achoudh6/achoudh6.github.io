@@ -106,5 +106,12 @@
 | Coursera 
 | August 2013 – Present </span>
 
+#### Training/Certification
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate  </span>
+
+
+
+
 <br /> 
 
