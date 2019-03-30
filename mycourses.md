@@ -109,6 +109,9 @@
 #### Training/Certification
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate  </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure Scannning Electron Microscopy (SEM), Analytical Instrumentation Facility (AIF) </span>
+
+https://www.aif.ncsu.edu/
 
 
 
