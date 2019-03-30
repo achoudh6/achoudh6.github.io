@@ -26,7 +26,7 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 - MAE 586: Summarizing existing research on assembly of metal-based cellular structures (or foams) <br />
 - Attending a grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin </a> <br /> 
 - Operational training on the Hitachi S-3200N variable pressure scanning electron microscope (VPSEM) <br />
-- Fusion 360: Topology Optimization & Generative Design modules <br /> 
+- Fusion 360: Exploring Topology Optimization & Generative Design modules <br /> 
 - <a href="https://www.coursera.org/learn/machine-learning"> Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
 
 </span> 
