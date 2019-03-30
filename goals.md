@@ -4,5 +4,6 @@ PLM/Six Sigma
 GDT/DFAM
 RepRap project
 Matlab PDE/VD
-ML
-Tableau Associate 
+ML/AI
+Tableau Associate
+Driving, Rock Climbing
