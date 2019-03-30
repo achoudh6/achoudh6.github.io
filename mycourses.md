@@ -109,7 +109,7 @@
 #### Training/Certification
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate  </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @AIF, NC State </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @ Analytical Instrumentation Facility </span>
 
 <br /> 
 
