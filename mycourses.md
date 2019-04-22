@@ -50,6 +50,9 @@
 
 #### Massive Open Online Courses (MOOCs)
 
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
+| Lynda
+| March 2019 – Present </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
 | October 2018 – Present </span>
