@@ -18,11 +18,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MSE 540 Processing of Metallic Materials</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 541 Advanced Solid Mechanics I</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 543 Fracture Mechanics</span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 589 Digital Manufacturing
-| *(Spring 2019)*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MAE 589 Digital Manufacturing</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 589 Fundamentals of Additive Manufacturing</span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 789 Advanced Metal Additive Manufacturing 
-| *(Spring 2019)*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ISE 789 Advanced Metal Additive Manufacturing</span>
 
 #### VIT University - Vellore Institute of Technology
 
