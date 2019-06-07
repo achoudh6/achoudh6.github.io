@@ -29,10 +29,10 @@ No Title
 
 #### Academic Projects
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type* </span> <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">*| TYPE*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type* </span>
 | `DATE`
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, Group Research Project</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, *Group Research Project*</span>
 | `03/2019 – 05/2019`
   <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;"> Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
 
