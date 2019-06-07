@@ -34,11 +34,12 @@ No Title
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, *Group Research Project*</span>
 | `03/2019 – 05/2019`<br/>
-&nbsp; &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
 
 
 -----------------------
-
+<div style="text-align: right"> Your text </div>
+<p style='text-align: right;'> Your Text </p>
 Digital Twin for an Injection Molding system, Group Research Project | 04/2019 <br/>
 &nbsp; &nbsp; Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities. 
 
