@@ -36,20 +36,11 @@ No Title
 | `03/2019 – 05/2019`
   <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;"> Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design  </span>
-| `Nov 2018 – Present`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Simulation of composite metal foams subject to a pool fire test environment </span>
-| `Sep 2018 – Oct 2018`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Metal foams: Product Design </span>
-| `Apr 2018 – May 2018`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Programming a non-linear finite-element incremental approach for a Belleville washer </span>
-| `Nov 2017 – Dec 2017`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Study and summarization of "Anisotropic hyperelastic behavior of soft biological tissues Computer Methods in Biomechanics and Biomedical Engineering" </span>
-| `Oct 2017 – Dec 2017`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Piezoelectric Ultrasonic motors in Photography </span>
-| `Apr 2018 – May 2018`
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Structure analysis of a defined composite I-beam structure using ANSYS Composite PrepPost </span>
-| `May 2017 – May 2017`
+
+
+
+
+
 *  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel </span>
 | `Jun 2014 – May 2015`
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Studies on bimetallic combinations between stainless steel AISI 416 and Inconel 718 </span>
