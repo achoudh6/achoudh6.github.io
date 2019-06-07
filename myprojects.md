@@ -29,6 +29,13 @@ No Title
 
 #### Academic Projects
 
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME</span>
+| `DATE`
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, Group Research Project</span>
+| `03/2019 – 05/2019`
+Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts.  
+
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Prototyping multiple parts by investment casting route using a liquid SLA-printed casting tree design  </span>
 | `Nov 2018 – Present`
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Simulation of composite metal foams subject to a pool fire test environment </span>
