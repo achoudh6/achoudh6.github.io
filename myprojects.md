@@ -29,7 +29,7 @@ No Title
 
 #### Academic Projects
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME</span> <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">*TYPE*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME</span> <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">*| TYPE*</span>
 | `DATE`
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, Group Research Project</span>
