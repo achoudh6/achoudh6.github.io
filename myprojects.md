@@ -39,7 +39,8 @@ No Title
 
 -----------------------
 
-Digital Twin for an Injection Molding system, Group Research Project  04/2019  Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities. 
+Digital Twin for an Injection Molding system, Group Research Project | 04/2019
+Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities. 
 
 Direct metal investment casting using liquid resin stereolithography, Group Project                                             11/2018 
 Successfully fabricated zinc rings through direct-metal investment casting by using a master pattern 3D-printed via the liquid-resin stereolithography (SLA) process with castable resin on the Formlabs Form 2 printer.
