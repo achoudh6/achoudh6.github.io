@@ -14,7 +14,7 @@ Ayush is pursuing a Master's degree in Mechanical Engineering at NC State Univer
 Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests mainly relate to advanced materials, welding metallurgy, additive manufacturing, mechanical testing & characterization, structure-property relationships etc. 
 <br />
 <br />
-Currently, in his 4th semester, he is seeking employment opportunities, starting June 2019.
+Currently, he is seeking intern/full-time opportunities, starting June 2019.
 
 <h4>Current Interests and Projects:</h4> 
 - Advanced Materials <br />
