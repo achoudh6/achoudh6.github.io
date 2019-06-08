@@ -29,17 +29,27 @@ No Title
 
 #### Academic Projects
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type* </span>
-| `DATE`
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type*</span>
+| `DATE`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">PROJECT INFORMATION</span>
+
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, *Group Research Project*</span>
 | `03/2019 – 05/2019`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
 
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Digital Twin for an Injection Molding system, Group Research Project & *type*</span>
+| `04/2019`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities.</span>
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type*</span>
+| `DATE`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">PROJECT INFORMATION</span>
+
 
 -----------------------
-<div style="text-align: right"> Your text </div>
-<p style='text-align: right;'> Your Text </p>
+
+
 Digital Twin for an Injection Molding system, Group Research Project | 04/2019 <br/>
 &nbsp; &nbsp; Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities. 
 
@@ -61,7 +71,9 @@ Coded a MATLAB script to model and approximate the non-linear load-deflection be
 ------------------
 
 * level one
-  + level two tabbed  
+  + level two tabbed 
+ div style="text-align: right"> Your text </div>
+<p style='text-align: right;'> Your Text </p>
     
 *  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel </span>
 | `Jun 2014 – May 2015`
