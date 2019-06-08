@@ -22,7 +22,6 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 - Additive Manufacturing
 
 <h4>What am I doing these days (summer)?  </h4>
-
 - Job search (waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> :/)
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> trips to Downtown Raleigh
 - Preparing for the Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)
@@ -31,5 +30,3 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 - <a href="https://www.coursera.org/learn/machine-learning"> Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
 
 </span> 
-
-
