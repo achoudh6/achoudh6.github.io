@@ -69,7 +69,8 @@ FORMAT
 | `11/2017`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Coded a MATLAB script to model and approximate the non-linear load-deflection behavior in a Belleville washer as a series of small incremental linear problems using the finite element method, and critiqued the spring flat-out load results with classical solutions, analytical approaches and the influence of geometric variables.</span>
 
------------------------
+<!---
+No Title
 
 * level one
   + level two tabbed 
@@ -89,3 +90,5 @@ div style="text-align: right"> Your text </div>
 | `Feb 2014 – Jun 2014`
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Design and analysis of an adjustable propeller-type Kaplan Turbine </span>
 | `Aug 2013 – Nov 2013`
+
+-->
