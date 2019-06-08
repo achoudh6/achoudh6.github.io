@@ -6,15 +6,19 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
  | *Engineering Failure Analysis 2019*
  | DOI:<a href="https://doi.org/10.1016/j.engfailanal.2018.09.028" target="_blank">10.1016/j.engfailanal.2018.09.028</a> </span>
+
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Characterization of microstructure and mechanical properties of continuous and pulsed current gas tungsten arc welded superaustenitic stainless steel
  | *Journal of Materials Research 2015*
  | DOI:<a href="https://doi.org/10.1557/jmr.2015.111" target="_blank">10.1557/jmr.2015.111</a> </span>
+
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of autogeneous GTA welding with and without flux addition on the microstructure and mechanical properties of AISI 904L joints
  | *Materials Science and Engineering A 2015*
  | DOI:<a href="https://doi.org/10.1016/j.msea.2015.03.072" target="_blank">10.1016/j.msea.2015.03.072</a> </span>
+
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of Filler Metals on the Weldability and Mechanical Properties of Multi-pass PCGTA Weldments of AISI 316L
  | *Journal of Materials Engineering and Performance 2015*
  | DOI:<a href="https://doi.org/10.1007/s11665-015-1418-0" target="_blank">10.1007/s11665-015-1418-0</a> </span>
+
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Effect of flux addition on the microstructure and tensile strength of dissimilar weldments involving Inconel 718 and AISI 416
  | *Materials and Design 2015*
  | DOI:<a href="https://doi.org/10.1016/j.matdes.2015.08.075" target="_blank">10.1016/j.matdes.2015.08.075</a> </span>
