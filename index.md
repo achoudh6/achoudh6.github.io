@@ -21,11 +21,12 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 - Material Joining Technology<br />
 - Additive Manufacturing
 
-<h4>What am I doing these days (or semester) ?  </h4>
-- Fabricating DMLS parts on EOS M280 as part of Metal Additive Manufacturing (ISE 789), taught at <a href="https://www.camal.ncsu.edu/">CAMAL</a><br />
-- MAE 586: Summarizing existing research on assembly of metal-based cellular structures (or foams) <br />
-- Attending a grad course on Digital Manufacturing (MAE 589), centered around the concept of a <a href="https://www2.deloitte.com/insights/us/en/focus/industry-4-0/digital-twin-technology-smart-factory.html">Digital Twin </a> <br /> 
-- Operational training on the Hitachi S-3200N variable pressure scanning electron microscope (VPSEM) <br />
+<h4>What am I doing these days (summer)?  </h4>
+
+- Job search (waiting on my EAD :/)
+- Ocassional photo trips to Downtown Raleigh
+- Preparing for the Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)
+- Learning to use Tableau for data visualization
 - Fusion 360: Exploring Topology Optimization & Generative Design modules <br /> 
 - <a href="https://www.coursera.org/learn/machine-learning"> Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
 
