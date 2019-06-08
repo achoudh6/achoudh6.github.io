@@ -29,10 +29,12 @@ No Title
 
 #### Academic Projects
 
+<!---
+FORMAT
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME, *type*</span>
 | `DATE`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">PROJECT INFORMATION</span>
-
+-->
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> GRCop-84 Powder Development for Selective Laser Melting, *Group Research Project*</span>
 | `03/2019 – 05/2019`<br/>
