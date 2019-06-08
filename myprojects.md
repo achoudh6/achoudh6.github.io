@@ -29,7 +29,7 @@ No Title
 
 #### Academic Projects
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME, *type*</span>
 | `DATE`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">PROJECT INFORMATION</span>
 
@@ -38,37 +38,31 @@ No Title
 | `03/2019 – 05/2019`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Investigated the feasibility of producing GRCop-84 structures on the EOS M270, a laser-based powder-bed fusion machine using a design of experiments coupled with metallography and optical characterization techniques to establish an optimal parameter set that produced nearly 99% dense parts. </span>
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Digital Twin for an Injection Molding system, Group Research Project & *type*</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Digital Twin for an Injection Molding system, *Group Research Project*</span>
 | `04/2019`<br/>
 &nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities.</span>
 
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> PROJECT NAME & *type*</span>
-| `DATE`<br/>
-&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">PROJECT INFORMATION</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Direct metal investment casting using liquid resin stereolithography, *Group Project*</span>
+| `11/2018`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Successfully fabricated zinc rings through direct-metal investment casting by using a master pattern 3D-printed via the liquid-resin stereolithography (SLA) process with castable resin on the Formlabs Form 2 printer.</span>
 
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Metal Foams: Product Design and Conceptualization, *Individual Course Project*</span>
+| `04/2018 – 05/2018`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Ideated and presented a concept design to incorporate metallic foams in a Steering Upright structure; built on the design hypothesis by carrying out stress analysis, modal analysis using Solidworks and implementing vibration damping management and mass-cost-function balance in accordance with Ashby’s design guide.</span>
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Piezoelectric Ultrasonic motors in Photography, *Individual Course Project*</span>
+| `04/2018 – 05/2018`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Conducted research on the design function and constitutive principles of piezoelectric ultrasonic motors in the context of the autofocus system used in digital cameras; used MSC Mentat analysis to perform modal and harmonic analysis of the stator component in a traveling wave motor.</span>
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Structural analysis of a defined composite I-beam structure using ANSYS, *Group Project*</span>
+| `04/2018`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Executed a simulation-based design substantiation of three-point loading on a composite I-beam with specific load carrying capacity and failure constraints using ANSYS Composite Prepost; including fiber/matrix selection, orientation and layup sequence, maximum failure load prediction and a qualitative manufacturability assessment.</span>
+
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Programming a non-linear FEM incremental approach for a Belleville washer, *Individual Course Project*</span>
+| `11/2017`<br/>
+&nbsp; <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:8pt;">Coded a MATLAB script to model and approximate the non-linear load-deflection behavior in a Belleville washer as a series of small incremental linear problems using the finite element method, and critiqued the spring flat-out load results with classical solutions, analytical approaches and the influence of geometric variables.</span>
 
 -----------------------
-
-
-Digital Twin for an Injection Molding system, Group Research Project | 04/2019 <br/>
-&nbsp; &nbsp; Proposed a dynamic digital twin for injection molding utilized by a hypothetical multinational company to produce plastic gears. Used Solidworks Plastics package, Ubidots, Raspbian to demonstrate machine/simulation data acquisition, flow and optimization & addressed issues related to economic/geographical differences within overseas production facilities. 
-
-Direct metal investment casting using liquid resin stereolithography, Group Project                                             11/2018 
-Successfully fabricated zinc rings through direct-metal investment casting by using a master pattern 3D-printed via the liquid-resin stereolithography (SLA) process with castable resin on the Formlabs Form 2 printer.
-
-Metal Foams: Product Design and Conceptualization, Individual Course Project                                  04/2018 – 05/2018
-Ideated and presented a concept design to incorporate metallic foams in a Steering Upright structure; built on the design hypothesis by carrying out stress analysis, modal analysis using Solidworks and implementing vibration damping management and mass-cost-function balance in accordance with Ashby’s design guide. 
-
-Piezoelectric Ultrasonic motors in Photography, Individual Course Project                                         04/2018 – 05/2018
-Conducted research on the design function and constitutive principles of piezoelectric ultrasonic motors in the context of the autofocus system used in digital cameras; used MSC Mentat analysis to perform modal and harmonic analysis of the stator component in a traveling wave motor. 
-
-Structural analysis of a defined composite I-beam structure using ANSYS, Group Project                                    04/2018
-Executed a simulation-based design substantiation of three-point loading on a composite I-beam with specific load carrying capacity and failure constraints using ANSYS Composite Prepost; including fiber/matrix selection, orientation and layup sequence, maximum failure load prediction and a qualitative manufacturability assessment.
-
-Programming a non-linear FEM incremental approach for a Belleville washer, Individual Course Project            11/2017
-Coded a MATLAB script to model and approximate the non-linear load-deflection behavior in a Belleville washer as a series of small incremental linear problems using the finite element method, and critiqued the spring flat-out load results with classical solutions, analytical approaches and the influence of geometric variables. 
-
-------------------
 
 * level one
   + level two tabbed 
