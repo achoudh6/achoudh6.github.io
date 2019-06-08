@@ -23,7 +23,7 @@ Currently, in his 4th semester, he is seeking employment opportunities, starting
 
 <h4>What am I doing these days (summer)?  </h4>
 
-- Job search (waiting on my EAD :/)
+- Job search (waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> :/)
 - Ocassional photo trips to Downtown Raleigh
 - Preparing for the Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)
 - Learning to use Tableau for data visualization
