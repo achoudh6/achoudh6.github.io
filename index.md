@@ -29,4 +29,5 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 - Fusion 360: Exploring Topology Optimization & Generative Design modules <br /> 
 - <a href="https://www.coursera.org/learn/machine-learning"> Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
 
+<br/>
 </span> 
