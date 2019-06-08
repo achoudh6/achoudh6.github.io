@@ -62,7 +62,8 @@ FORMAT
 
 * level one
   + level two tabbed 
- div style="text-align: right"> Your text </div>
+ 
+div style="text-align: right"> Your text </div>
 <p style='text-align: right;'> Your Text </p>
     
 *  <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Characterization of microstructure, mechanical properties of continuous and pulsed current gas tungsten arc-welded super-austenitic steel </span>
