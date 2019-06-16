@@ -39,21 +39,21 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 `Aug 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Conducted hands-on vehicle teardown and benchmarking activity with competitor models to achieve cost targets & generate ideas for future domestic/ASEAN/Latin American models </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking data to establish cost/specification metrics and worked in tandem with cross-functional teams to ideate & study feasibility of VA/VE or localization ideas</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generated cost-down ideas worth 180 INR per vehicle and documented DFMEA reports to understand the criticality of the revisions as well as meet QCDDM targets </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Localized exported engineering materials through detailed study, analysis, and comparison of JIS & local standards</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Investigated defects and quality concerns in steel/rubber/sheet metal/casting batch-manufactured parts</span>
 
 `May 2015-July 2016`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Engineer Trainee, Yamaha Motor R&D India Pvt. Ltd. (YMRI)</span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification and cost through engineered solutions based on domestic market analytics </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Drafted 2D sketches in compliance with JIS standards, appended 40+ Revision requests (RRS) and Design consignments (DCS) to implement changes/revisions and reconcile DFM feedback with design goals </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Liaised with vehicle testing, concurrent engineering, production planning, quality assurance, service and sales divisions to manage product development schedule, conduct joint-vendor PPAP audits and ensure timely TP/SOP of new models </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Performed root cause/corrective action analysis through Genba, Fishbone, Pareto, 5Whys to address manufacturing, quality and service concerns </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Maintained the DPS (Daily Progress Sheet) information repository for concurrent projects supporting a comprehensive PM and tracking dashboard </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Communicated inner child parts design study & investigation inferences within the team affecting the development & procurement of suspension systems </span>
 
 
 ## Skills / Certifications
