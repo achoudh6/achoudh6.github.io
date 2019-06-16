@@ -31,9 +31,10 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 
 `Dec 2017-Present`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Student Assistant – Access Services, NCSU Libraries </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Customer service & help navigating the technology lending program.  </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Patron support, general help, clerical and reference assistance.  </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Article search, citation support, and paraprofessional responsibilities at the graduate student level. </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Fabrication support for 200+ 3D printed parts on Lulzbot Taz 6, Formlabs Form 2, Stratasys UPrint SEPlus </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Troubleshooting and feedback in relation to FDM/SLA part design, process selection, cost-size-resolution constraints, and print feasibility </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> CAD/STL modeling/repair using Solidworks, Tinkercad, Fusion 360, Meshmixer.  </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Provided new-user training and participated in year-round workshops familiarizing self with the latest technologies. </span>
 
 `Aug 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
