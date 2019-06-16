@@ -10,7 +10,7 @@ layout: resume
 
 ## Education
 
-`2017 - Expected May 2019`
+`2017 - 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering (GPA – 3.8/4.0) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
@@ -24,14 +24,14 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 
 ## Experience
 
-`Aug 2018-Present`
+`Aug 2018-May 2019`
  __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Makerspace Assistant, NCSU Libraries  </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Fabrication support for 200+ 3D printed parts on Lulzbot Taz6, Formlabs Form 2, Stratasys UPrint SEPlus </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Troubleshooting and feedback in relation to FDM/SLA part design and print feasibility. </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> CAD/STL modeling/repair using Solidworks, Tinkercad, Fusion 360, Meshmixer </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Provided new-user training and participated in year-round workshops learning to work with latest technology  </span>
 
-`Dec 2017-Present`
+`Dec 2017-May 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Student Assistant – Access Services, NCSU Libraries </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Provided customer service & helped patrons with navigating the technology lending program </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Article search, citation support, general help and troubleshooting, clerical and reference assistance  </span>
@@ -39,18 +39,21 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 `Aug 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking results in the form of trade-offs b/w cost & optimum spec. function </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Worked in tandem with ancillary suppliers to ideate & study feasibility of VA/VE ideas </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Inspection and root cause analysis of defects in steel/rubber/sheet metal/casting batch-manufactured parts </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Communicated section-specific design knowledge & investigation inferences within the team </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
 
 `May 2015-July 2016`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Engineer Trainee, Yamaha Motor R&D India Pvt. Ltd. (YMRI)</span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development through Responsible Analysis) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product costs through engineered solutions custom made for domestic conditions </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Worked on the localization of exported engineering materials through detailed study, analysis, and comparison of JIS & local standards pertaining to the target industry </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Grew efficient in Espri 3D and other YMC-based production system principles </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Created deliverables directly in relation to the development & procurement of 2-wheeler suspension systems </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) Dept. </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> </span>
 
 
 ## Skills / Certifications
