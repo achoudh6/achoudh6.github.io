@@ -12,7 +12,7 @@ layout: resume
 
 `2017 - 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> North Carolina State University, Raleigh NC </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering (GPA – 3.8/4.0) </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> MS, Mechanical Engineering (GPA – 3.73/4.0) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Concentration: Structural Mechanics, Materials & Manufacturing </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Affiliated with the Rabiei Research Group, Advanced Materials Research Lab (AMRL) </span>
 
