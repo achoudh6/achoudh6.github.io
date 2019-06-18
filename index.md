@@ -23,11 +23,9 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 
 <h4>What am I doing these days (summer)?  </h4>
 - Job search (waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> :/)<br />
-- Learning to use <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a> for data visualization<br />
-- <a href="https://www.coursera.org/learn/machine-learning"> Machine Learning MOOC (Coursera)</a> by Andrew Ng <br />
+- Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, OpenSCAD <br />
 - Preparing for the Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> trips to Downtown Raleigh<br />
-- Fusion 360: Exploring Topology Optimization & Generative Design modules <br /> 
 
 
 
