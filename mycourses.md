@@ -49,61 +49,61 @@
 #### Massive Open Online Courses (MOOCs)
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
 | Coursera
-| August 2019 – Present </span>
+| Aug 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
 | Lynda
-| March 2019 – Present </span>
+| Mar 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
-| October 2018 – Present </span>
+| Oct 2018</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 | edX
 | *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Nanotechnology: A Maker’s Course
 | Coursera
-| December 2017 – Present </span>
+| Dec 2017</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">ASME Standards & Certification 
 | ASME (The American Society of Mechanical Engineers)
-| November 2016 – Present </span>
+| Nov 2016</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Additive Manufacturing 
 | ASME (The American Society of Mechanical Engineers) 
-| November 2016 – Present </span>
+| Nov 2016</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Analysis and Modelling of Welding 
 | NPTEL 
-| April 2016 – Present </span>
+| Apr 2016</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Materials Science: 10 Things Every Engineer Should Know 
 | Coursera
-| February 2016 – Present </span>
+| Feb 2016</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">IIMBx: QM101.1x Statistics for Business - I 
 | edX 
-| September 2015 – Present </span>
+| Sep 2015</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TUMx: QEMx Quality Engineering and Management 
 | edX 
-| September 2015 – Present </span>
+| Sep 2015</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: STEEL101x Introduction to Steel 
 | edX 
-| September 2015 – Present </span>
+| Sep 2015</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">ChM001x: Introduction to Graphene Science and Technology 
 | edX 
-| June 2015 – Present </span>
+| Jun 2015</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 3.032x Mechanical Behavior of Materials 
 | edX 
-| August 2014 – Present </span>
+| Aug 2014</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">C# Fundamentals for Absolute Beginners 
 | Microsoft 
-| July 2014 – Present </span>
+| Jul 2014</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Climate Change 
 | Coursera 
-| December 2013 – Present </span>
+| Dec 2013</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">New Models of Business in Society 
 | Coursera 
-| November 2013 – Present </span>
+| Nov 2013</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Microeconomics Principles 
 | Coursera 
-| October 2013 – Present </span>
+| Oct 2013</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Thermodynamics: Transferring Energy from Here to There 
 | Coursera 
-| August 2013 – Present </span>
+| Aug 2013</span>
 
 #### Training/Certification
 
