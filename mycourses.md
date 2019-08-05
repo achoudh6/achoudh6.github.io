@@ -47,7 +47,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
 #### Massive Open Online Courses (MOOCs)
-
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
+| Coursera
+| August 2019 – Present </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
 | Lynda
 | March 2019 – Present </span>
@@ -58,9 +60,6 @@
 | edX
 | *(Learning)* </span>
 <!---Introduction to Programming with MATLAB| Coursera|(Learning currently)-->
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Excel/VBA for Creative Problem Solving
-| Coursera
-| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Nanotechnology: A Maker’s Course
 | Coursera
 | December 2017 – Present </span>
