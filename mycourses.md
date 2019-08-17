@@ -50,6 +50,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
 | Coursera
 | Aug 2019</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">GD&T Applications 312
+| ToolingU SME 
+| Aug 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
 | Lynda
 | Mar 2019</span>
