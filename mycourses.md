@@ -47,6 +47,12 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
 #### Massive Open Online Courses (MOOCs)
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> HarvardX: PH526 Using Python for Research
+| edX
+| *(Learning)* </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.1x Manufacturing Process Control I
+| edX
+| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
 | Coursera
 | Aug 2019</span>
@@ -56,15 +62,15 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Computer Vision
 | Udacity
 | *(Learning)* </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
+| edX
+| May 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
 | Lynda
 | Mar 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
 | Oct 2018</span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
-| edX
-| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Nanotechnology: A Maker’s Course
 | Coursera
 | Dec 2017</span>
