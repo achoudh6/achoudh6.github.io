@@ -21,7 +21,7 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 - Material Joining Technology<br />
 - Additive Manufacturing
 
-<h4>What am I doing these days (updated Aug 30)?  </h4>
+<h4>What am I doing these days?  </h4>
 - Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> <br />
 - Taking online courses towards <a href="https://micromasters.mit.edu/pom/">MIT's MicroMasters Program in 
 Principles of Manufacturing</a><br />
