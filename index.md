@@ -24,7 +24,7 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 <h4>What am I doing these days (updated Aug 30)?  </h4>
 - Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> <br />
 - Taking online courses towards <a href="https://micromasters.mit.edu/pom/">MIT's MicroMasters Program in 
-Principles of Manufacturing</a> (Financial aid received!)<br />
+Principles of Manufacturing</a><br />
 - Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, OpenSCAD <br />
 - Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> trips to Downtown Raleigh<br />
