@@ -27,7 +27,7 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 Principles of Manufacturing</a><br />
 - Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, OpenSCAD <br />
 - Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
-- Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> trips to Downtown Raleigh<br />
+- Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh<br />
 
 
 
