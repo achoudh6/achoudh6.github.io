@@ -50,6 +50,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.1 Manufacturing Process Control I
 | edX
 | *(Learning)* </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generative Design for Additive Manufacturing
+| Autodesk
+| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> HarvardX: PH526 Using Python for Research
 | edX
 | *(Learning)* </span>
@@ -59,9 +62,6 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">GD&T Applications 312
 | Tooling U SME 
 | Aug 2019</span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Introduction to Computer Vision
-| Udacity
-| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Deloitte Insights: Additive Manufacturing for Business
 | Lynda
 | Mar 2019</span>
