@@ -118,6 +118,6 @@
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate (CSWA) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @ Analytical Instrumentation Facility (AIF) </span>
-
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Developing Cultural Competence Student Certificate </span>
 <br /> 
 
