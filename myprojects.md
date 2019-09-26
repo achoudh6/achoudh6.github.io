@@ -1,7 +1,8 @@
 <!---
 No Title
 -->
-#### Portfolio (in process): <a href="https://docs.google.com/presentation/d/1snSH8d1ZLzfiSBhGWlYgjjM1fi6A84Nlz8iZZ69pAOQ/edit?usp=sharing">Google Slides</a> </span>
+#### Portfolio
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"><a href="https://docs.google.com/presentation/d/1snSH8d1ZLzfiSBhGWlYgjjM1fi6A84Nlz8iZZ69pAOQ/edit?usp=sharing">Google Slides (under construction)</a></span>
 
 #### Publications
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Failure evaluation of SA 210C riffle water wall tubes in 70 MW CFBC boiler
