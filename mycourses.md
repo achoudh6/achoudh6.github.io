@@ -47,7 +47,7 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
 #### Massive Open Online Courses (MOOCs)
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.1 Manufacturing Process Control I
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.2x Manufacturing Process Control II
 | edX
 | *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generative Design for Additive Manufacturing
@@ -56,6 +56,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> HarvardX: PH526 Using Python for Research
 | edX
 | *(Learning)* </span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.1 Manufacturing Process Control I
+| edX
+| Oct 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
 | Coursera
 | Aug 2019</span>
