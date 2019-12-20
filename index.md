@@ -23,8 +23,7 @@ Currently, he is seeking intern/full-time opportunities, starting June 2019.
 
 <h4>What am I doing these days?  </h4>
 - Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> <i>(Update: Received in Dec after a 9 months of exasperating setbacks!)</i><br />
-- Taking online courses towards <a href="https://micromasters.mit.edu/pom/">MIT's MicroMasters Program in 
-Principles of Manufacturing</a> <i>(Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
+- Taking online courses on <a href="https://micromasters.mit.edu/pom/"> Statistical Process Conrol</a> via MITx <i>(Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
 - Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, OpenSCAD <br />
 - Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh<br />
