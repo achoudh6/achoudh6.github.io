@@ -7,6 +7,7 @@ layout: resume
 ## Currently
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Research Assisstant, The Center for Additive Manufacturing and Logistics (CAMAL), NC State 
+
 This is probably the best phase of life in terms of purely learning and relating concepts to problems around me; now that the learning process is less related to the fear of grades or ranking hierarchy. Unfortunately, that wasn't the case growing up.
 </span> 
 
