@@ -10,9 +10,9 @@ excerpt: "About Me"
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
   
 Mechanical engineering graduate (M.S) who loves building transferable, adaptable skills. Strong academic/research background with 4+ years of hands-on experience executing projects & solving complex, multidisciplinary research challenges with diverse teams. Overseas projects experience (ASEAN countries) and demonstrated success with manufacturing design, quality control & product development as part of Yamaha’s flagship INDRA project. 
-
+<br />
 I'm presently working on the process and material development for powder-bed fusion processes in additive manufacturing.
-
+<br />
 Ayush holds a Master's degree in Mechanical Engineering at NC State University with a research concentration in structural mechanics, materials & manufacturing. He is a member of Dr. Afsaneh Rabiei's <a href="https://people.engr.ncsu.edu/arabiei/">Advanced Materials Research Laboratory</a> (AMRL) & his research is focused on Composite Metal Foams (CMFs) in conjunction with a Dept. of Transportation (DoT) funded project.<br />
 <br />
 Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests mainly relate to advanced materials, welding metallurgy, additive manufacturing, mechanical testing & characterization, structure-property relationships etc. 
@@ -20,10 +20,9 @@ Previous hands-on experience in experimental research during his undergraduate d
 <br />
 
 <h4>Current Interests and Projects:</h4> 
-- Advanced Materials<br />
-- Material Joining Technology<br />
-- Additive Manufacturing <br />
-- Design for Manufacturing & Assembly<br />
+- Mechanical Behaviour of Advanced Materials<br />
+- Additive Manufacturing: <br />
+- Design for Manufacturing and Assy. <br />
 - Manufacturing Process Control via DOE
 
 <h4>What am I doing these days?  </h4>
