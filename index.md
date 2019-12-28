@@ -18,12 +18,13 @@ Ayush holds a Master's degree in Mechanical Engineering at NC State University w
 Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests mainly relate to advanced materials, welding metallurgy, additive manufacturing, mechanical testing & characterization, structure-property relationships etc. 
 <br />
 <br />
-Seeking full-time opportunities, starting June 2019.
 
 <h4>Current Interests and Projects:</h4> 
 - Advanced Materials<br />
 - Material Joining Technology<br />
-- Additive Manufacturing
+- Additive Manufacturing <br />
+- Design for Manufacturing & Assembly<br />
+- Manufacturing Process Control via DOE
 
 <h4>What am I doing these days?  </h4>
 - Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> <i>(Update: Received in Dec after a 9 months of exasperating setbacks!)</i><br />
