@@ -50,9 +50,6 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generative Design for Additive Manufacturing
 | Autodesk
 | *(Learning)* </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> HarvardX: PH526 Using Python for Research
-| edX
-| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.2x Manufacturing Process Control II
 | edX
 | Dec 2019 </span>
