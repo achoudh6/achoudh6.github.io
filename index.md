@@ -19,9 +19,9 @@ I'm currently a postgraduate research scholar at The Center for Additive Manufac
 Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests mainly relate to advanced materials, welding metallurgy, additive manufacturing, mechanical testing & characterization, structure-property relationships etc. 
 -->
 <h4>Current Interests and Projects:</h4> 
-- Mechanical behaviour of materials<br />
-- Additive manufacturing<br />
-- Design for manufacturing<br />
+- Mechanical behaviour of materials <br />
+- Additive manufacturing: Process development, DfAM, Generative design <br />
+- Design for manufacturing <br />
 - Manufacturing process control
 
 <h4>What am I doing these days?  </h4>
