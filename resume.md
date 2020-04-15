@@ -6,7 +6,7 @@ layout: resume
 
 ## Currently
 
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Project Assisstant, The Center for Additive Manufacturing and Logistics (CAMAL), NC State </span> 
+<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Research Scholar, The Center for Additive Manufacturing and Logistics (CAMAL), NC State </span> 
 
 ## Education
 
