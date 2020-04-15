@@ -28,7 +28,7 @@ Previous hands-on experience in experimental research during his undergraduate d
 - <s>Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a></s><i> (Update: Received in Dec after over 9 months of exasperating setbacks!)</i><br/>
 - <s>Taking online courses on Statistical Process Conrol via <a href="https://micromasters.mit.edu/pom/"> MIT Principles of Manufacturing MicroMasters program</a></s><i> (Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
 - Major find! Watching 2.75 Precison Machine Design lectures taught by Alex Slocum- wonderful playlist wherein he shares key lessons in design approach via anecdotes from his hardware hacking experience <br />
-- Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, OpenSCAD <br />
+- Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, Labview <br />
 - Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh<br />
 
