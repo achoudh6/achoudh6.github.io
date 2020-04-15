@@ -12,7 +12,7 @@ Hello World!
 <br />  <br />
 Welcome to my page! I'm a mechanical engineering graduate (MSME) who loves building transferable, adaptable skills. Strong academic/research background with 4+ years of hands-on experience executing projects & solving complex, multidisciplinary research challenges with diverse teams. Overseas projects experience (ASEAN countries) and demonstrated success with manufacturing design, quality control & product development as part of Yamaha’s flagship INDRA project. 
 <br /> <br />  
-I'm presently working on the process and material development for powder-bed fusion processes in additive manufacturing.
+I'm currently a postgraduate research scholar at The Center for Additive Manufacturing and Logistics (CAMAL) at NC State and my current research meets at the interface of materials engineering and additive manufacturing. My work involves process and material development for powder-bed fusion processes in additive manufacturing. 
 <br /> <br />
 <!---No TitleAyush holds a Master's degree in Mechanical Engineering at NC State University with a research concentration in structural mechanics, materials & manufacturing. He is a member of Dr. Afsaneh Rabiei's <a href="https://people.engr.ncsu.edu/arabiei/">Advanced Materials Research Laboratory</a> (AMRL) & his research is focused on Composite Metal Foams (CMFs) in conjunction with a Dept. of Transportation (DoT) funded project.<br />
 <br />
