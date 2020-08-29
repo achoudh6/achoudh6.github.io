@@ -11,6 +11,8 @@
 - title: Courses
   url: /mycourses/
   
-- title: Other
-  url: /other/
+- title: ECAs
+  url: /myECAs/
 
+- title: Links
+  url: /myLinks/
