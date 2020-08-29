@@ -39,6 +39,7 @@ Update Profile Picture
 Update softwares and skills- nTopology
 Check Danfoss DfAM project dates
 Check screenshots/Google Keep for SUMMARY motivations
+"Working towards my Lean Six Sigma Yellow belt and identifying key areas of interest that I can work on right away"
 Passion Projects in Index page - Laser diffracted PSD analysis, 3D Visulaization of line length differences and hatch rotations along the build height 
 MOOCs 
 Links- Reliawiki, Slocum, acmUK, Fictiv, Zeiss, InsideSkunkWorks, Working in Teams, Interesting articles
