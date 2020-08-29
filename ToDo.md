@@ -38,8 +38,9 @@ Currently in my last semester (hopefully)
 Update Profile Picture
 Update softwares and skills- nTopology
 Check Danfoss DfAM project dates
+Check screenshots/Google Keep for SUMMARY motivations
 Passion Projects in Index page - Laser diffracted PSD analysis, 3D Visulaization of line length differences and hatch rotations along the build height 
 MOOCs 
-Links- Reliawiki, Slocum, acmUK, Fictiv, Zeiss, InsideSkunkWorks, 
+Links- Reliawiki, Slocum, acmUK, Fictiv, Zeiss, InsideSkunkWorks, Working in Teams, Interesting articles
      - Lab links- MET ReasearchGate, AMRL, CAMAL/CPAC, ORCID, ResearchGate. 
  
