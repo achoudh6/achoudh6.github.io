@@ -47,6 +47,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Turbomachines (MEE-304) </span> 
 
 #### Massive Open Online Courses (MOOCs)
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Reliability and Decision Making in Engineering Design
+| PurdueX
+| *(Learning)* </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generative Design for Additive Manufacturing
 | Autodesk
 | *(Learning)* </span>
@@ -56,6 +59,9 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.830.1 Manufacturing Process Control I
 | edX
 | Oct 2019</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">MITx: 2.008x Fundamentals of Manufacturing Processes
+| edX
+| Sep 2019</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Data Analytics for Lean Six Sigma
 | Coursera
 | Aug 2019</span>
