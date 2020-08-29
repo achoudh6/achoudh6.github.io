@@ -31,3 +31,13 @@ Currently in my last semester (hopefully)
 * TenarisUniversityX: CNC.ETRRx Introduction to Computer Numerical Control
 | edX
 | October 2018 – Present
+
+
+
+
+Update Profile Picture
+Passion Projects in Index page - Laser diffracted PSD analysis, 3D Visulaization of line length differences and hatch rotations along the build height 
+MOOCs 
+Links- Reliawiki, Slocum, acmUK, Fictiv, Zeiss, InsideSkunkWorks, 
+     - Lab links- MET ReasearchGate, AMRL, CAMAL/CPAC, ORCID, ResearchGate. 
+ 
