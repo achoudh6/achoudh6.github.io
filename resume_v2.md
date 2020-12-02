@@ -4,7 +4,7 @@ layout: resume
 
 <!---No Title-->
 
-### Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived lessons. Thanks! 
+### Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived learnings. Thanks! 
  
 ## Currently
 
