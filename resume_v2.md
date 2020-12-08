@@ -68,6 +68,14 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Gr
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Solidworks- Certified Solidworks Associate (CSWA) , MatLab, Ansys, GibbsCAM, Autodesk Ecotect, Meshmixer ,Preform, Cura, CatalystEX, Fusion 360, Unity, Adobe Photoshop, Adobe Lightroom, 3D Printing, Excel/VBA, Photography, Photogrammetry, 3D Scanning, Refworks, Python, C, C++ </span>
 
+• Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis)
+• Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)
+• Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)
+• Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk-certified, nTopology)
+• Statistical Process Control and Design of Experiments
+• Joining and Assembly Methods (Welding/Brazing)
+• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
+
 <!-- ### Footer-->
 <!-- Last updated: Dec 2019 -->
 
