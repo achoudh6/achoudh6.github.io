@@ -1,10 +1,6 @@
 <!---
 No Title
 -->
-<style>  
-@import url('https://fonts.googleapis.com/css?family=Arial');   
-</style>
-
 #### Some of my fav webpages:-
 
 * Precision Design lectures by Prof. Alex Slocum (https://meddevdesign.mit.edu/fundamentals-of-design/)
