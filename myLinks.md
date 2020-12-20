@@ -11,6 +11,8 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://makeabilitylab.github.io/physcomp/" target="_blank">Physical Computing</a></span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://blog.dragoninnovation.com/blog/tag/design-for-manufacturing-course/page/2
 " target="_blank">DFM playlist</a> by Dragon Innovation</span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fictiv.com/teardowns" target="_blank">Fictiv Teardowns</a></span>
+
 
 <!---
 No Title
