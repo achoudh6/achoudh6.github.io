@@ -25,11 +25,12 @@ I'm skilled in and constantly improving at: <br/>
 • Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
 • Statistical Process Control and Design of Experiments (JMP, Minitab)<br/>
 • Joining and Assembly Methods (Welding/Brazing)<br/>
-• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)<br/>
+• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
+<br/><br />
 
 <h4>Updates and Catching up! </h4>
 • WIP: Job search!! Also finishing up work on publishing our work on RMJ-AM hybrid joints in Cu interconnects<br/>
-• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" target="_blank">Find more here</a><br/>
+• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" target="_blank">Find more here.</a><br/>
 • Nov 2020: Passed the Autodesk exam for Certified Expert in Generative Design for Manufacturing<br/>
 • Oct 2020: Completed 1/2 TUM's online Lean Six Sigma Yellow Belt program<br/>
 • Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot this year</i><br/>
