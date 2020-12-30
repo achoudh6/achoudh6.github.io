@@ -28,7 +28,9 @@ I'm skilled in and constantly improving at: <br/>
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)<br/>
 
 <h4>Updates and Catching up! </h4>
-• Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot at this point</i><br/>
+• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="">Find more here</a>  
+• Oct 2020: 
+• Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot this year</i><br/>
 • May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">2020 International Graduate Programame (IGP)</a> right before my final interwiew at Toulouse, France :/<br/>
 • Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
 
