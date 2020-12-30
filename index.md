@@ -29,7 +29,7 @@ I'm skilled in and constantly improving at: <br/>
 
 <h4>Updates and Catching up! </h4>
 • Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot at this point</i><br/>
-• May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">2020 International Graduate Programame (IGP)</a> right before my final interwiew at Toulouse, France :/
+• May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">2020 International Graduate Programame (IGP)</a> right before my final interwiew at Toulouse, France :/<br/>
 • Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
 
 • <s>Taking online courses on Statistical Process Conrol via <a href="https://micromasters.mit.edu/pom/"> MIT Principles of Manufacturing MicroMasters program</a></s><i> (Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
