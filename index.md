@@ -8,11 +8,11 @@ excerpt: "About Me"
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 Hello and welcome to my page! 
 <br />  <br />
-I'm an experienced and versatile mechanical engineer with strong design, critical thinking and experimental problem-solving skills. First-generation Master's graduate of the NC State Advanced Materials Research Lab (AMRL). I'm a self-taught 3d printing nerd, process control aficionado and an advocate for open-source design and continuous learning.
+I'm an experienced and versatile mechanical engineer with strong design, critical thinking and experimental problem-solving skills. First-generation Master's graduate of the NC State <a href="https://people.engr.ncsu.edu/arabiei/" style="color:#ef1414;" target="_blank">Advanced Materials Research Lab (AMRL)</a>. I'm a self-taught 3d printing nerd, process control aficionado and an advocate for open-source design and continuous learning.
 <br /> <br />  
 I'm passionate about digital mfg and love exploring alternate design/process flows in product development. I'm able to observe the intersection b/w product design and materials science from a unique perspective with my mixed background. My top priority is learning and growing and building a strong foundation of experiences. In the future, I want to be able to individually contribute within a diverse team, innovate through complex dev. challenges and design robust, functional human-centered products.
 <br /> <br />  
-I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and worked on their flagship INDRA project that developed India’s most economic two-wheeler vehicle. In my current position as a Project Assistant at CAMAL, I am working with an electric vehicle OEM to make δ improvements in their joining process by utilizing additive manufacturing. My research is focused on 3d printing OFE copper, which is the basis of many accelerator applications. 
+I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and worked on their <a href="https://www.autocarpro.in/feature/saluto-rx-model-india-yamaha-project-indra-17176" style="color:#ef1414;" target="_blank">flagship INDRA project</a> that developed India’s most economic two-wheeler vehicle. In my current position as a Project Assistant at <a href="https://www.camal.ncsu.edu/" style="color:#ef1414;" target="_blank">CAMAL</a>, I am working with an electric vehicle OEM to make δ improvements in their joining process by utilizing additive manufacturing. My research is focused on  <a href="https://www.mae.ncsu.edu/cpac/about/" style="color:#ef1414;" target="_blank">3d printing OFE copper</a>, which is the basis of many accelerator applications. 
 <br /> <br />
 
 <h4>Skills & Interests:</h4> 
