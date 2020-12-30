@@ -32,10 +32,10 @@ I'm skilled in and constantly improving at: <br/>
 • Nov 2020: Passed the Autodesk exam for Certified Expert in Generative Design for Manufacturing<br/>
 • Oct 2020: Completed 1/2 TUM's online Lean Six Sigma Yellow Belt program<br/>
 • Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot this year</i><br/>
-• May 2020: So Covid happened! And now Airbus is discontinuing its <a href="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html" target="blank">2020 International Graduate Programme (IGP)</a> right before my final interview @Toulouse, France :/ <br/>
-• Jan 2020: Completed 2.8301x and 2.8302x courses from <a href="https://micromasters.mit.edu/pom/" target="_blank">MIT Principles of Manufacturing MicroMasters Program</a><br/>
-• Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document" target="_blank">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
-• Others: Ocassional photowalks to Downtown Raleigh. <a href="https://www.instagram.com/in_n_arnd_state/" target="_blank">Find pictures here!</a> <br />
+• May 2020: So Covid happened! And now Airbus is discontinuing its <a href="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html" style="color:#ef1414;" target="blank">2020 International Graduate Programme (IGP)</a> right before my final interview @Toulouse, France :/ <br/>
+• Jan 2020: Completed 2.8301x and 2.8302x courses from <a href="https://micromasters.mit.edu/pom/" style="color:#ef1414;" target="_blank">MIT Principles of Manufacturing MicroMasters Program</a><br/>
+• Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document" style="color:#ef1414;" target="_blank">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
+• Others: Ocassional photowalks to Downtown Raleigh. <a href="https://www.instagram.com/in_n_arnd_state/" style="color:#ef1414;" target="_blank">Find pictures here!</a> <br />
 
 
 
