@@ -56,6 +56,8 @@ I'm skilled in and constantly improving at: <br/>
 
 <!---Comment (Archive)
 
+Emoji list: https://www.w3schools.com/charsets/ref_emoji.asp
+
 Welcome to my page! I'm a mechanical engineering graduate (MSME) who loves building transferable, adaptable skills. Strong academic/research background with 4+ years of hands-on experience executing projects & solving complex, multidisciplinary research challenges with diverse teams. Overseas projects experience (ASEAN countries) and demonstrated success with manufacturing design, quality control & product development as part of Yamaha’s flagship INDRA project. 
 
 I'm currently a postgraduate research scholar at The Center for Additive Manufacturing and Logistics (CAMAL) at NC State and my current research meets at the interface of materials engineering and additive manufacturing. My work involves process and material development for powder-bed fusion processes in additive manufacturing. 
