@@ -28,7 +28,7 @@ I'm skilled in and constantly improving at: <br/>
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)<br/>
 
 <h4>Updates and Catching up! </h4>
-• Work-in-Progress: Job search!! And finishing up work on publishing our work on RMJ-AM hybrid joints in copper interconnects<br/>
+• WIP: Job search!! And finishing up work on publishing our work on RMJ-AM hybrid joints in copper interconnects<br/>
 • Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" target="_blank">Find more here</a><br/>
 • Nov 2020: Passed the Autodesk exam for Certified Expert in Generative Design for Manufacturing<br/>
 • Oct 2020: Completed 1/2 TUM's online Lean Six Sigma Yellow Belt program<br/>
