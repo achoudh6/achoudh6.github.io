@@ -8,9 +8,9 @@ excerpt: "About Me"
 
 <div style="text-align: justify"> 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
-Hello World! 
+Hello and welcome to my page! 
 <br />  <br />
-I am an experienced and versatile mechanical engineer with strong design, critical thinking and experimental problem-solving skills. First-generation Master's graduate of the NC State Advanced Materials Research Lab (AMRL). I'm a self-taught 3d printing nerd, process control aficionado and an advocate for open-source design and continuous learning.
+I'm an experienced and versatile mechanical engineer with strong design, critical thinking and experimental problem-solving skills. First-generation Master's graduate of the NC State Advanced Materials Research Lab (AMRL). I'm a self-taught 3d printing nerd, process control aficionado and an advocate for open-source design and continuous learning.
 <br /> <br />  
 I'm passionate about digital mfg and love exploring alternate design/process flows in product development. I'm able to observe the intersection b/w product design and materials science from a unique perspective with my mixed background. My top priority is learning and growing and building a strong foundation of experiences. In the future, I want to be able to individually contribute within a diverse team, innovate through complex dev. challenges and design robust, functional human-centered products.
 <br /> <br />  
@@ -18,15 +18,14 @@ I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and wor
 <br /> <br />
 
 <h4>Current Interests and Projects:</h4> 
-I'm skilled in and constantly improving at -
-- Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis) <br />
-- Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)<br />
-- Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)<br />
-- Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
+I'm skilled in and constantly improving at: <br/>
+• Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis) <br />
+• Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)<br />
+• Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)<br />
+• Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
 • Statistical Process Control and Design of Experiments (JMP, Minitab)<br/>
 • Joining and Assembly Methods (Welding/Brazing)
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
-- Manufacturing process control
 
 <h4>What am I doing these days?  </h4>
 - <s>Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a></s><i> (Update: Received in Dec after over 9 months of exasperating setbacks!)</i><br/>
