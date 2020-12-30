@@ -12,12 +12,12 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://blog.dragoninnovation.com/blog/tag/design-for-manufacturing-course/page/2
 " target="_blank">DFM playlist</a> by Dragon Innovation</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fictiv.com/teardowns" target="_blank">Fictiv Teardowns</a></span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://instrumental.com/resources/teardown/" target="_blank">Instrumental Teardowns</a></span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://instrumental.com/resources/teardown/" target="_blank">Instrumental Inc. Teardowns</a></span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="Website link" target="_blank">Linkword</a></span>
+
 
 <!---
-No Title
-
+Comment
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TEXT| *ITALICS*
  | DOI:<a href="LINK" target="_blank"> TAG </a> </span>
-
 -->
