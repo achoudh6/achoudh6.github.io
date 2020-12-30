@@ -24,7 +24,7 @@ I'm skilled in and constantly improving at: <br/>
 • Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)<br />
 • Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
 • Statistical Process Control and Design of Experiments (JMP, Minitab)<br/>
-• Joining and Assembly Methods (Welding/Brazing)
+• Joining and Assembly Methods (Welding/Brazing)<br/>
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
 
 <h4>What am I doing these days?  </h4>
