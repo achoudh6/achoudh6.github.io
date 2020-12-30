@@ -4,8 +4,6 @@ excerpt: "About Me"
 ---
 <!---(font-family: "San Francisco", "Roboto", "Segoe UI";)--> 
 
-
-
 <div style="text-align: justify"> 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 Hello and welcome to my page! 
@@ -30,7 +28,7 @@ I'm skilled in and constantly improving at: <br/>
 
 <h4>Updates and Catching up! </h4>
 • WIP: Job search!! Also finishing up work on publishing our work on RMJ-AM hybrid joints in Cu interconnects<br/>
-• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" target="_blank">Find more here.</a><br/>
+• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" style="color:#ef1414;" target="_blank">Find more here.</a><br/>
 • Nov 2020: Passed the Autodesk exam for Certified Expert in Generative Design for Manufacturing<br/>
 • Oct 2020: Completed 1/2 TUM's online Lean Six Sigma Yellow Belt program<br/>
 • Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot this year</i><br/>
