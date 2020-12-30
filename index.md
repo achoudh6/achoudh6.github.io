@@ -28,20 +28,15 @@ I'm skilled in and constantly improving at: <br/>
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)<br/>
 
 <h4>Updates and Catching up! </h4>
-• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="">Find more here</a>  
-• Oct 2020: 
+• Work-in-Progress: Job search!! And finishing up work on publishing our work on RMJ-AM hybrid joints in copper interconnects<br/>
+• Dec 2020: Moving month! Our lab, my workplace is moving to a new facility on NC State campus. <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" target="_blank">Find more here</a><br/>
+• Nov 2020: Passed the Autodesk exam for Certified Expert in Generative Design for Manufacturing<br/>
+• Oct 2020: Completed 1/2 TUM's online Lean Six Sigma Yellow Belt program<br/>
 • Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes! Yay! <i>Small win but means a lot this year</i><br/>
-• May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">2020 International Graduate Programame (IGP)</a> right before my final interwiew at Toulouse, France :/<br/>
-• Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
-
-• <s>Taking online courses on Statistical Process Conrol via <a href="https://micromasters.mit.edu/pom/"> MIT Principles of Manufacturing MicroMasters program</a></s><i> (Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
-• Major find! Watching 2.75 Precison Machine Design lectures taught by Alex Slocum- wonderful playlist wherein he shares key lessons in design approach via anecdotes from his hardware hacking experience <br />
-• Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, JMP <br />
-• Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh. Find pictures here!<br />
-
-<br/>
-</span> 
-
+• May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html" target="blank">2020 International Graduate Programme (IGP)</a> right before my final interview @Toulouse, France :/ <br/>
+• Jan 2020: Completed 2.8301x and 2.8302x courses from <a href="https://micromasters.mit.edu/pom/" target="_blank">MIT Principles of Manufacturing MicroMasters Program</a><br/>
+• Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document" target="_blank">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
+• Others: Ocassional photowalks to Downtown Raleigh. <a href="https://www.instagram.com/in_n_arnd_state/" target="_blank">Find pictures here!</a> <br />
 
 
 
