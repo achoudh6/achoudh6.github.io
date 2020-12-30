@@ -27,13 +27,14 @@ I'm skilled in and constantly improving at: <br/>
 • Joining and Assembly Methods (Welding/Brazing)<br/>
 • Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)<br/>
 
-<h4>Updates and catching up! </h4>
-• <s>Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a></s><i> (Update: Received in Dec after over 9 months of exasperating setbacks!)</i><br/>
+<h4>Updates and Catching up! </h4>
+• Sep 2020: Our work on the chapter titled 'Additive Manufacturing of Copper and Cu alloys' gets published in the ASM Handbook, Volume 24: Additive Manufacturing Processes. YAY!
+• May 2020: So Covid happened! And now Airbus is discontinuing its <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">2020 International Graduate Programame (IGP)</a> right before my final interwiew at Toulouse, France :/
+• Dec 2019: My OPT <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a> finally arrived after >10 months of exasperating setbacks! Wow!<br/>
+• Losing out on <br/>
 • <s>Taking online courses on Statistical Process Conrol via <a href="https://micromasters.mit.edu/pom/"> MIT Principles of Manufacturing MicroMasters program</a></s><i> (Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
 • Major find! Watching 2.75 Precison Machine Design lectures taught by Alex Slocum- wonderful playlist wherein he shares key lessons in design approach via anecdotes from his hardware hacking experience <br />
 • Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, JMP <br />
-• Losing out on Airbus International Graduate Programame (IGP) 2020 <ahref="https://www.airbus.com/careers/students-graduates/international-graduate-programme.html">Link</a><br/>
-• Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
 • Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh. Find pictures here!<br />
 
 <br/>
