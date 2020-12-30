@@ -10,15 +10,49 @@ excerpt: "About Me"
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">
 Hello World! 
 <br />  <br />
-Welcome to my page! I'm a mechanical engineering graduate (MSME) who loves building transferable, adaptable skills. Strong academic/research background with 4+ years of hands-on experience executing projects & solving complex, multidisciplinary research challenges with diverse teams. Overseas projects experience (ASEAN countries) and demonstrated success with manufacturing design, quality control & product development as part of Yamaha’s flagship INDRA project. 
+I am an experienced and versatile mechanical engineer with strong design, critical thinking and experimental problem-solving skills. First-generation Master's graduate of the NC State Advanced Materials Research Lab (AMRL). I'm a self-taught 3d printing nerd, process control aficionado and an advocate for open-source design and continuous learning.
 <br /> <br />  
-I'm currently a postgraduate research scholar at The Center for Additive Manufacturing and Logistics (CAMAL) at NC State and my current research meets at the interface of materials engineering and additive manufacturing. My work involves process and material development for powder-bed fusion processes in additive manufacturing. 
+I'm passionate about digital mfg and love exploring alternate design/process flows in product development. I'm able to observe the intersection b/w product design and materials science from a unique perspective with my mixed background. My top priority is learning and growing and building a strong foundation of experiences. In the future, I want to be able to individually contribute within a diverse team, innovate through complex dev. challenges and design robust, functional human-centered products.
+<br /> <br />  
+I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and worked on their flagship INDRA project that developed India’s most economic two-wheeler vehicle. In my current position as a Project Assistant at CAMAL, I am working with an electric vehicle OEM to make δ improvements in their joining process by utilizing additive manufacturing. My research is focused on 3d printing OFE copper, which is the basis of many accelerator applications. 
 <br /> <br />
-<!---No TitleAyush holds a Master's degree in Mechanical Engineering at NC State University with a research concentration in structural mechanics, materials & manufacturing. He is a member of Dr. Afsaneh Rabiei's <a href="https://people.engr.ncsu.edu/arabiei/">Advanced Materials Research Laboratory</a> (AMRL) & his research is focused on Composite Metal Foams (CMFs) in conjunction with a Dept. of Transportation (DoT) funded project.<br />
-<br />
-Previous hands-on experience in experimental research during his undergraduate days as well as proven abilities in value engineering, design & benchmarking during employment with a Japanese firm. Research interests mainly relate to advanced materials, welding metallurgy, additive manufacturing, mechanical testing & characterization, structure-property relationships etc. 
--->
+
 <h4>Current Interests and Projects:</h4> 
+I'm skilled in and constantly improving at -
+- Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis) <br />
+- Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)<br />
+- Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)<br />
+- Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
+• Statistical Process Control and Design of Experiments (JMP, Minitab)<br/>
+• Joining and Assembly Methods (Welding/Brazing)
+• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
+- Manufacturing process control
+
+<h4>What am I doing these days?  </h4>
+- <s>Waiting on my <a href="https://www.uscis.gov/greencard/employment-authorization-document">EAD</a></s><i> (Update: Received in Dec after over 9 months of exasperating setbacks!)</i><br/>
+- <s>Taking online courses on Statistical Process Conrol via <a href="https://micromasters.mit.edu/pom/"> MIT Principles of Manufacturing MicroMasters program</a></s><i> (Update: Done and dusted with 2.8301x  and 2.8302x!)</i><br />
+- Major find! Watching 2.75 Precison Machine Design lectures taught by Alex Slocum- wonderful playlist wherein he shares key lessons in design approach via anecdotes from his hardware hacking experience <br />
+- Learning/Getting better at Python, <a href="https://public.tableau.com/profile/ayush7404#!/">Tableau</a>, Labview <br />
+- Working on creating a projects portfolio <br />
+- Preparing for Solidworks <a href="https://www.solidworks.com/sw/support/797_ENU_HTML.htm">CSWP</a> exam (CSWA cleared!)<br />
+- Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh. Find pictures here!<br />
+
+
+
+<br/>
+</span> 
+
+
+
+
+
+<!---Comment (Archive)
+
+Welcome to my page! I'm a mechanical engineering graduate (MSME) who loves building transferable, adaptable skills. Strong academic/research background with 4+ years of hands-on experience executing projects & solving complex, multidisciplinary research challenges with diverse teams. Overseas projects experience (ASEAN countries) and demonstrated success with manufacturing design, quality control & product development as part of Yamaha’s flagship INDRA project. 
+
+I'm currently a postgraduate research scholar at The Center for Additive Manufacturing and Logistics (CAMAL) at NC State and my current research meets at the interface of materials engineering and additive manufacturing. My work involves process and material development for powder-bed fusion processes in additive manufacturing. 
+
+Current Interests and Projects:</h4> 
 - Mechanical behaviour of materials <br />
 - Additive manufacturing: Process development, DfAM, Generative design <br />
 - Design for manufacturing <br />
@@ -34,6 +68,4 @@ Previous hands-on experience in experimental research during his undergraduate d
 - Ocassional <a href="https://www.instagram.com/in_n_arnd_state/">photo</a> walks to Downtown Raleigh<br />
 
 
-
-<br/>
-</span> 
+-->
