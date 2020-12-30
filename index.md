@@ -17,7 +17,7 @@ I'm passionate about digital mfg and love exploring alternate design/process flo
 I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and worked on their flagship INDRA project that developed India’s most economic two-wheeler vehicle. In my current position as a Project Assistant at CAMAL, I am working with an electric vehicle OEM to make δ improvements in their joining process by utilizing additive manufacturing. My research is focused on 3d printing OFE copper, which is the basis of many accelerator applications. 
 <br /> <br />
 
-<h4>Current Interests and Projects:</h4> 
+<h4>Skills & Interests:</h4> 
 I'm skilled in and constantly improving at: <br/>
 • Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis) <br />
 • Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)<br />
