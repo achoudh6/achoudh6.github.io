@@ -17,13 +17,13 @@ I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and wor
 
 <h4>Skills & Interests:</h4> 
 I'm skilled in and constantly improving at: <br/>
-• Mechanical Design <span style="color:LightGray">(DFM/DFA, Solidworks CSWA)</span> and Verification <span style="color:LightGray">(CAD, GD&T, Tolerance analysis) </span> <br />
-• Material Characterization <span style="color:LightGray">(SEM/EDS/NDT/CT)</span> and Physical Modeling <span style="color:LightGray">(Ansys FEA, MatLab) </span> <br />
-• Reliability Testing <span style="color:LightGray">(Benchmarking, Case testing, Strife testing, Instron UTM) </span> <br />
-• Additive Manufacturing <span style="color:LightGray">(FDM/SLA/SLS/DMLS)</span> and Generative Design <span style="color:LightGray">(Autodesk expert, nTopology) </span> <br/>
-• Statistical Process Control and Design of Experiments <span style="color:LightGray">(JMP, Minitab) </span> <br/>
-• Joining and Assembly Methods <span style="color:LightGray">(Welding/Brazing) </span> <br/>
-• Failure Analysis and Lean Six Sigma <span style="color:LightGray">(DFMEA, RCA, 5Why, Ishikawa)</span>
+• Mechanical Design <span style="color:Grey">(DFM/DFA, Solidworks CSWA)</span> and Verification <span style="color:Grey">(CAD, GD&T, Tolerance analysis) </span> <br />
+• Material Characterization <span style="color:Grey">(SEM/EDS/NDT/CT)</span> and Physical Modeling <span style="color:Grey">(Ansys FEA, MatLab) </span> <br />
+• Reliability Testing <span style="color:Grey">(Benchmarking, Case testing, Strife testing, Instron UTM) </span> <br />
+• Additive Manufacturing <span style="color:Grey">(FDM/SLA/SLS/DMLS)</span> and Generative Design <span style="color:Grey">(Autodesk expert, nTopology) </span> <br/>
+• Statistical Process Control and Design of Experiments <span style="color:Grey">(JMP, Minitab) </span> <br/>
+• Joining and Assembly Methods <span style="color:Grey">(Welding/Brazing) </span> <br/>
+• Failure Analysis and Lean Six Sigma <span style="color:Grey">(DFMEA, RCA, 5Why, Ishikawa)</span>
 <br/><br />
 
 <h4>Updates & Catching up! </h4>
