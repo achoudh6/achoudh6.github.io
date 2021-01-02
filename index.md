@@ -15,17 +15,15 @@ I'm passionate about digital mfg and love exploring alternate design/process flo
 I've been a Design and VA/VE engineer @ Yamaha Motor Corp's R&D Division and worked on their <a href="https://www.autocarpro.in/feature/saluto-rx-model-india-yamaha-project-indra-17176" style="color:#ef1414;" target="_blank">flagship INDRA project</a> that developed India’s most economic two-wheeler vehicle. In my current position as a Project Assistant @ <a href="https://www.camal.ncsu.edu/" style="color:#ef1414;" target="_blank">CAMAL</a>, I am working with an electric vehicle OEM to make δ improvements in their joining process by utilizing additive manufacturing. My research is focused on  <a href="https://www.mae.ncsu.edu/cpac/about/" style="color:#ef1414;" target="_blank">3d printing OFE copper</a>, which is the basis of many accelerator applications. 
 <br /> <br />
 
-<span style="color:blue">DFM/DFA, Solidworks (CSWA)</span>
-
 <h4>Skills & Interests:</h4> 
 I'm skilled in and constantly improving at: <br/>
-• Mechanical Design <span style="color:blue">DFM/DFA, Solidworks (CSWA)</span> (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis) <br />
-• Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)<br />
-• Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)<br />
-• Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk expert, nTopology) <br/>
-• Statistical Process Control and Design of Experiments (JMP, Minitab)<br/>
-• Joining and Assembly Methods (Welding/Brazing)<br/>
-• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
+• Mechanical Design <span style="color:LightGray">(DFM/DFA, Solidworks CSWA)</span> and Verification <span style="color:LightGray">(CAD, GD&T, Tolerance analysis) </span> <br />
+• Material Characterization <span style="color:LightGray">(SEM/EDS/NDT/CT)</span> and Physical Modeling <span style="color:LightGray">(Ansys FEA, MatLab) </span> <br />
+• Reliability Testing <span style="color:LightGray">(Benchmarking, Case testing, Strife testing, Instron UTM) </span> <br />
+• Additive Manufacturing <span style="color:LightGray">(FDM/SLA/SLS/DMLS)</span> and Generative Design <span style="color:LightGray">(Autodesk expert, nTopology) </span> <br/>
+• Statistical Process Control and Design of Experiments <span style="color:LightGray">(JMP, Minitab) </span> <br/>
+• Joining and Assembly Methods <span style="color:LightGray">(Welding/Brazing) </span> <br/>
+• Failure Analysis and Lean Six Sigma <span style="color:LightGray">(DFMEA, RCA, 5Why, Ishikawa)</span>
 <br/><br />
 
 <h4>Updates & Catching up! </h4>
