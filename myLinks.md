@@ -14,8 +14,8 @@ No Title
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fetraining.net/spiders/" style="color:#ef1414;" target="_blank">FEA Talking Shop series</a> by Tony Abbey</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fictiv.com/teardowns" style="color:#ef1414;" target="_blank">Fictiv Teardowns</a></span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://instrumental.com/resources/teardown/" style="color:#ef1414;" target="_blank">Instrumental Inc. Teardowns</a></span>
-
-
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://vention.io/blogs?pageNumber=1&filterBy=design-tips
+" style="color:#ef1414;" target="_blank">Vention design blog</a></span>
 
 <!---
 Comment
