@@ -21,6 +21,12 @@ No Title
 
 <!---
 Comment
+1. https://boz.com/articles/traits
+2. 
+3. 
+-->
+<!---
+Comment
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TEXT| *ITALICS*
  | DOI:<a href="LINK" target="_blank"> TAG </a> </span>
 -->
