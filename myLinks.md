@@ -22,8 +22,12 @@ No Title
 <!---
 Comment
 1. https://boz.com/articles/traits
-2. 
-3. 
+2. https://www.chrisharrison.net/index.php/Fun/Welcome
+3. http://pencerw.com/feed/tag/nTopology
+4. 
+5.
+6.
+
 -->
 <!---
 Comment
