@@ -24,8 +24,8 @@ Comment
 1. https://boz.com/articles/traits
 2. https://www.chrisharrison.net/index.php/Fun/Welcome
 3. http://pencerw.com/feed/tag/nTopology
-4. 
-5.
+4. Newsletter: https://newlab.com/
+5. Newsletter: https://www.densediscovery.com/archive/
 6.
 
 -->
