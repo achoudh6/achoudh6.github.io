@@ -3,13 +3,13 @@
   url: /
 
 - title: Resume
-  url: /resume_v2/
+  url: /myResume/
   
 - title: Projects
-  url: /myprojects/
+  url: /myProjects/
 
 - title: Courses
-  url: /mycourses/
+  url: /myCourses/
   
 - title: ECAs
   url: /myECAs/
