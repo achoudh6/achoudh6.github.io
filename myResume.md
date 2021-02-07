@@ -29,10 +29,18 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Thesis: Super-Austenitic Stainless-Steel Weldments (published in the Cambridge University Press) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Affiliated with the Welding Research Group, Materials Engineering & Technology Lab (MET) </span>                 
 
-## Experience
+## Work Experience
+`Jun 2019-Present`
+ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">OPTCAMAL  </span>__
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Executed design, material and process parameter development via response mapping for Laser & Electron-beam powder-bed fusion (PBF) builds, efforts mainly focused on printing complex OFE Copper geometries for RF devices & vacuum electronics</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Developed a hybrid process workflow for an electric vehicle OEM by running high-temp polymer deposition trials on a modified printer, segmenting assemblies using DfAM, prototyping fixtures for inspection, and post-processing CT data to characterize surface roughness, internal defects & interface phenomena </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Consulted with research partners and industry stakeholders to re-design parts taking into account DfAM principles, reducing operational error and ensuring process compliance </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized the quality of as-received and sieved metal powder via careful sampling, control charts, ANOVA Gage R&R, LECO testing and laser diffraction spectroscopy to improve the size span by 16%, control cross-contamination and minimize surface oxidation </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Designed vacuum brazing connections between 3D printed RF waveguides and CNC machined parts; analyzed the local strain and diffusion behavior on similar as-printed bimetallic interfaces using tensile tests, electron microscopy and digital image correlation </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Published CAD drawings, analyzed 100+ datasets within open literature to identify trends and present normalized process maps towards “Additive Manufacturing of Copper and Cu Alloys” (article 24A-5I), ASM Handbook Volume 24A: Additive Manufacturing Processes  </span>
 
 `Aug 2018-May 2019`
- __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Makerspace Assistant, NCSU Libraries  </span>__
+ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Makerspace Student Technician, NCSU Libraries  </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Fabricated > 200 FDM/SLA parts and helped maintain our fleet of Formlabs, Markforged, Ultimaker, Stratasys, Lulzbot, Fusion 3 printers </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Streamlined the MES workflow by listing FAQs, printing method-size-cost-resolution tradeoff examples, setting-up print queuing & monitoring tools </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Consulted with patrons to achieve desired results based on their timelines, machine availability, desired material properties, and printed product end-use </span>
@@ -72,13 +80,6 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Gr
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Solidworks- Certified Solidworks Associate (CSWA) , MatLab, Ansys, GibbsCAM, Autodesk Ecotect, Meshmixer ,Preform, Cura, CatalystEX, Fusion 360, Unity, Adobe Photoshop, Adobe Lightroom, 3D Printing, Excel/VBA, Photography, Photogrammetry, 3D Scanning, Refworks, Python, C, C++ </span>
 
-• Mechanical Design (DFM/DFA, Solidworks CSWA) and Verification (CAD, GD&T, Tolerance analysis)
-• Material Characterization (SEM/EDS/NDT/CT) and Physical Modeling (Ansys FEA, MatLab)
-• Reliability Testing (Benchmarking, Case testing, Strife testing, Instron UTM)
-• Additive Manufacturing (FDM/SLA/SLS/DMLS) and Generative Design (Autodesk-certified, nTopology)
-• Statistical Process Control and Design of Experiments
-• Joining and Assembly Methods (Welding/Brazing)
-• Failure Analysis and Lean Six Sigma (DFMEA, RCA, 5Why, Ishikawa)
 
 <!-- ### Footer-->
 <!-- Last updated: Dec 2019 -->
