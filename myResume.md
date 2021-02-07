@@ -2,17 +2,17 @@
 layout: resume
 ---
 
-<!---No Title
-
-Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived learnings. Thanks! 
+<!---
+Comment: Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived learnings. Thanks! ----- This is probably the best phase of life in terms of purely learning and relating concepts to problems around me; now that the learning process is less related to the fear of grades or ranking hierarchy. Unfortunately, that wasn't the case growing up.
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">TEXT| *ITALICS*
+ | DOI:<a href="LINK" target="_blank"> TAG </a> </span>
 -->
+
+
 
 ## Currently
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Research Assisstant, The Center for Additive Manufacturing and Logistics (CAMAL), NC State 
-
-This is probably the best phase of life in terms of purely learning and relating concepts to problems around me; now that the learning process is less related to the fear of grades or ranking hierarchy. Unfortunately, that wasn't the case growing up.
-
 </span> 
 
 ## Education
@@ -41,8 +41,10 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 
 `Dec 2017-May 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Student Assistant – Access Services, NCSU Libraries </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Provided customer service & helped patrons with navigating the technology lending program </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Article search, citation support, general help and troubleshooting, clerical and reference assistance  </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Customer service and helping patrons navigate the Technology Lending program </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Article search, citation support, issuing tickets and troubleshooting, clerical and reference assistance</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Assisted with circular operations including overdues, shelving, shifting, library loans, book maintenance</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Represented the libraries at various community events, including the University Open House</span>
 
 `Aug 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
