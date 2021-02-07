@@ -2,10 +2,11 @@
 layout: resume
 ---
 
-<!---No Title-->
+<!---No Title
 
-### Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived learnings. Thanks! 
- 
+Hi, if you stumbled to this section of my website looking for a professional resume, here it is a file (insert link) What you see below is a more informal illustration of my experiences and derived learnings. Thanks! 
+-->
+
 ## Currently
 
 <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Research Assisstant, The Center for Additive Manufacturing and Logistics (CAMAL), NC State 
@@ -32,10 +33,11 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 
 `Aug 2018-May 2019`
  __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Makerspace Assistant, NCSU Libraries  </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Fabrication support for 200+ 3D printed parts on Lulzbot Taz6, Formlabs Form 2, Stratasys UPrint SEPlus </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Troubleshooting and feedback in relation to FDM/SLA part design and print feasibility. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> CAD/STL modeling/repair using Solidworks, Tinkercad, Fusion 360, Meshmixer </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Provided new-user training and participated in year-round workshops learning to work with latest technology  </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Fabricated > 200 FDM/SLA parts and helped maintain our fleet of Formlabs, Markforged, Ultimaker, Stratasys, Lulzbot, Fusion 3 printers </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Streamlined the MES workflow by listing FAQs, printing method-size-cost-resolution tradeoff examples, setting-up print queuing & monitoring tools </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Consulted with patrons to achieve desired results based on their timelines, machine availability, desired material properties, and printed product end-use </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Trained new users and personnel on machine operation, safety protocols, inventory, CAD/STL file repair, build preparation, support generation</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Participated in year-round interdisciplinary workshops (Git, IoT, Screen printing, R, Tableau, Markdown, etc.) as part of the Makerspace cohort familiarizing self with new hacks, tools and technologies</span>
 
 `Dec 2017-May 2019`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Student Assistant – Access Services, NCSU Libraries </span>__
