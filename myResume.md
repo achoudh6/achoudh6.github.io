@@ -54,16 +54,17 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Assisted with circular operations including overdues, shelving, shifting, library loans, book maintenance</span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Represented the libraries at various community events, including the University Open House</span>
 
-`Aug 2016-Jun 2017`
+`Jun 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Conducted hands-on vehicle teardown and benchmarking activity with competitor models to achieve cost targets & generate ideas for future domestic/ASEAN/Latin American models </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking data to establish cost/specification metrics and worked in tandem with cross-functional teams to ideate & study feasibility of VA/VE or localization ideas</span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Generated cost-down ideas worth 180 INR per vehicle and documented DFMEA reports to understand the criticality of the revisions as well as meet QCDDM targets </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Localized exported engineering materials through detailed study, analysis, and comparison of JIS & local standards</span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Investigated defects and quality concerns in steel/rubber/sheet metal/casting batch-manufactured parts</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team
+ </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Youngest amongst 40+ members on the R&D floor to be inducted into YAMAHA Corp’s Cost Innovation Team (VA/VE Division): Together we developed the roadmap for our flagship INDRA project, producing India’s most economic ($450) motorbike </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated benchmarking activities and participated in periodic vehicle teardowns of relevant competitive products to capture trends, analyze global best practices and build the VA/VE Ideation Hopper for future domestic and offshore (ASEAN/Latin American) models </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking data to analyze cost-specification metrics for feature selection; worked in tandem with cross-functional teams to ideate & study the feasibility of VA/VE, part localization and assembly configuration change ideas </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Delivered 5% cost reduction annually across 0.7 million vehicles validating changes through DVP&R and DFMEA, worked with Testing to plan functional, HALT and durability tests to assess the criticality of revisions, and facilitate horizontal deployment to meet QCD targets </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated with proprietary/CKD part vendors to drive localization, multi-sourcing for imported engineering materials through detailed study, acceptance testing, and comparison of JIS & local material standards </span>
 
-`May 2015-July 2016`
+`May 2015-May 2016`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Engineer Trainee, Yamaha Motor R&D India Pvt. Ltd. (YMRI)</span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) Dept. </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification and cost through engineered solutions based on domestic market analytics </span>
