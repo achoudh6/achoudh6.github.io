@@ -55,7 +55,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Represented the libraries at various community events, including the University Open House</span>
 
 `Jun 2016-Jun 2017`
-__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VA/VE Engineer: Cost Innovation Group, Yamaha Motor R&D </span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Youngest amongst 40+ members on the R&D floor to be inducted into YAMAHA Corp’s Cost Innovation Team (VA/VE Division): Together we developed the roadmap for our flagship INDRA project, producing India’s most economic ($450) motorbike </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated benchmarking activities and participated in periodic vehicle teardowns of relevant competitive products to capture trends, analyze global best practices and build the VA/VE Ideation Hopper for future domestic and offshore (ASEAN/Latin American) models </span>
@@ -64,7 +64,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> En
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated with proprietary/CKD part vendors to drive localization, multi-sourcing for imported engineering materials through detailed study, acceptance testing, and comparison of JIS & local material standards </span>
 
 `May 2015-May 2016`
-__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Engineer Trainee, Yamaha Motor R&D India Pvt. Ltd. (YMRI)</span>__
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Design Engineer (Body Section), Yamaha Motor R&D</span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification & cost via engineered solutions based on domestic market analytics & customer feedback</span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Recognized for exhibiting the highest level of Hou-Ren-Sou in the Body Design team and multiple instances of communicating subject-specific part-level information and teardown insights to my team via thorough archiving & documentation </span>
