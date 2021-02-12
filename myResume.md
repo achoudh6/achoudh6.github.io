@@ -65,13 +65,13 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> En
 
 `May 2015-May 2016`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Graduate Engineer Trainee, Yamaha Motor R&D India Pvt. Ltd. (YMRI)</span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) Dept. </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification and cost through engineered solutions based on domestic market analytics </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Drafted 2D sketches in compliance with JIS standards, appended 40+ Revision requests (RRS) and Design consignments (DCS) to implement changes/revisions and reconcile DFM feedback with design goals </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Liaised with vehicle testing, concurrent engineering, production planning, quality assurance, service and sales divisions to manage product development schedule, conduct joint-vendor PPAP audits and ensure timely TP/SOP of new models </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Performed root cause/corrective action analysis through Genba, Fishbone, Pareto, 5Whys to address manufacturing, quality and service concerns </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Maintained the DPS (Daily Progress Sheet) information repository for concurrent projects supporting a comprehensive PM and tracking dashboard </span>
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Communicated inner child parts design study & investigation inferences within the team affecting the development & procurement of suspension systems </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification & cost via engineered solutions based on domestic market analytics & customer feedback</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Recognized for exhibiting the highest level of Hou-Ren-Sou in the Body Design team and multiple instances of communicating subject-specific part-level information and teardown insights to my team via thorough archiving & documentation </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Designed 3D parametric CAD models, delivered all assigned part & assembly drawings before Production Transfer. Facilitated 40+ Engineering Change Orders (ECOs), lead design reviews in support of production and successful DFM-Kaizen-Monozukuri feedback implementation </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Autonomously handled the ownership of multiple body subsystems and liaised with cross-functional teams and sourcing partners to conduct joint-suppliers PPAP audits, localization and multi-sourcing activity, and successfully define limits for acceptable functionality prior to FATP </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Maintained the Daily Progress Sheet (DPS) information repository for concurrent projects, supporting comprehensive project management and tracking dashboard </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Implemented root cause & corrective action (RCCA) tracking and countermeasure activity through Genba, Cp/Cpk, Pareto, 5Whys, Ishikawa analysis; triangulated errors to resolve field failure analysis and satisfy <4% target market claim reduction </span>
 
 ## Skills / Certifications
 
