@@ -73,8 +73,6 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Gr
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">  Maintained the DPS (Daily Progress Sheet) information repository for concurrent projects supporting a comprehensive PM and tracking dashboard </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Communicated inner child parts design study & investigation inferences within the team affecting the development & procurement of suspension systems </span>
 
-## Roles in Leadership and Volunteering
-
 ## Skills / Certifications
 
 
