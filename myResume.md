@@ -64,8 +64,8 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VA
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated with proprietary/CKD part vendors to drive localization, multi-sourcing for imported engineering materials through detailed study, acceptance testing, and comparison of JIS & local material standards </span>
 
 `May 2015-May 2016`
-__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Design Engineer (Body Section), Yamaha Motor R&D</span>__<br/>
-<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ★ Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Design Engineer (Body Section), Yamaha Motor R&D</span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ★ Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification & cost via engineered solutions based on domestic market analytics & customer feedback</span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Recognized for exhibiting the highest level of Hou-Ren-Sou in the Body Design team and multiple instances of communicating subject-specific part-level information and teardown insights to my team via thorough archiving & documentation </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Designed 3D parametric CAD models, delivered all assigned part & assembly drawings before Production Transfer. Facilitated 40+ Engineering Change Orders (ECOs), lead design reviews in support of production and successful DFM-Kaizen-Monozukuri feedback implementation </span>
