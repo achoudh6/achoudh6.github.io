@@ -122,9 +122,9 @@
 
 <details><summary>Training/Certification</summary>
   
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Autodesk Expert in Generative Design </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate in Mechanical Design </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @ Analytical Instrumentation Facility (AIF) </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Developing Cultural Competence Student Certificate, The Global Training Initiative at NC State University </span> 
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Autodesk Expert in Generative Design </span>
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate in Mechanical Design </span>
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @ Analytical Instrumentation Facility (AIF) </span>
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Developing Cultural Competence Student Certificate, The Global Training Initiative at NC State University </span> 
   
 </details>
