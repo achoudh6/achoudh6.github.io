@@ -56,8 +56,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 
 `Jun 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Engineer, Yamaha Motor R&D India Pvt. Ltd. (YMRI) </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team
- </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Youngest amongst 40+ members on the R&D floor to be inducted into YAMAHA Corp’s Cost Innovation Team (VA/VE Division): Together we developed the roadmap for our flagship INDRA project, producing India’s most economic ($450) motorbike </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated benchmarking activities and participated in periodic vehicle teardowns of relevant competitive products to capture trends, analyze global best practices and build the VA/VE Ideation Hopper for future domestic and offshore (ASEAN/Latin American) models </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking data to analyze cost-specification metrics for feature selection; worked in tandem with cross-functional teams to ideate & study the feasibility of VA/VE, part localization and assembly configuration change ideas </span>
