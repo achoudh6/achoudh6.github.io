@@ -56,7 +56,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> St
 
 `Jun 2016-Jun 2017`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VA/VE Engineer: Cost Innovation Group, Yamaha Motor R&D </span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ★ Cost Innovation Group: Value Analysis/Value Engineering (VA/VE) Team </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Youngest amongst 40+ members on the R&D floor to be inducted into YAMAHA Corp’s Cost Innovation Team (VA/VE Division): Together we developed the roadmap for our flagship INDRA project, producing India’s most economic ($450) motorbike </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Coordinated benchmarking activities and participated in periodic vehicle teardowns of relevant competitive products to capture trends, analyze global best practices and build the VA/VE Ideation Hopper for future domestic and offshore (ASEAN/Latin American) models </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Summarized benchmarking data to analyze cost-specification metrics for feature selection; worked in tandem with cross-functional teams to ideate & study the feasibility of VA/VE, part localization and assembly configuration change ideas </span>
@@ -65,7 +65,7 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VA
 
 `May 2015-May 2016`
 __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Design Engineer (Body Section), Yamaha Motor R&D</span>__
-- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> ★ Body Design Group: INDRA (Innovative & New Development based on Responsible Analysis) </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Optimized product specification & cost via engineered solutions based on domestic market analytics & customer feedback</span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Recognized for exhibiting the highest level of Hou-Ren-Sou in the Body Design team and multiple instances of communicating subject-specific part-level information and teardown insights to my team via thorough archiving & documentation </span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Designed 3D parametric CAD models, delivered all assigned part & assembly drawings before Production Transfer. Facilitated 40+ Engineering Change Orders (ECOs), lead design reviews in support of production and successful DFM-Kaizen-Monozukuri feedback implementation </span>
