@@ -128,10 +128,11 @@
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Developing Cultural Competence Student Certificate, The Global Training Initiative at NC State University </span>
 <br /> 
 
-<details open>
-<summary>####Other Courses</summary>
-<br>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Applied Numerical Methods (MAT-205) </span>
-* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Basic German (Ger-101) </span>
-</details>
 
+<details>
+<summary>Other Courses</summary>
+
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Applied Numerical Methods (MAT-205) </span>
++ <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Basic German (Ger-101) </span>
+
+</details>
