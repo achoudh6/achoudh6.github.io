@@ -120,7 +120,7 @@
 | Coursera 
 | Aug 2013</span>
 
-<details><summary><h3>Training/Certification</h3></summary>
+<details><summary>Training/Certification</summary>
   
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Autodesk Expert in Generative Design </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate in Mechanical Design </span>
