@@ -120,19 +120,22 @@
 | Coursera 
 | Aug 2013</span>
 
-#### Training/Certification
+<details>
+<summary> <h4>Training/Certification</h4></summary>
 
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Autodesk Expert in Generative Design </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Certified Solidworks Associate in Mechanical Design </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Short course on variable pressure SEM @ Analytical Instrumentation Facility (AIF) </span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Developing Cultural Competence Student Certificate, The Global Training Initiative at NC State University </span>
 <br /> 
+</details>
 
 
+
+<!--- Dropdown list implementation
 <details>
 <summary> <h4>Trial list</h4></summary>
-
 + <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Applied Numerical Methods (MAT-205) </span>
 + <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;">Basic German (Ger-101) </span>
-
 </details>
+-->
