@@ -13,6 +13,7 @@ No Title
 " style="color:#ef1414;" target="_blank">DFM playlist</a> by Dragon Innovation</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fetraining.net/spiders/" style="color:#ef1414;" target="_blank">FEA Talking Shop series</a> by Tony Abbey</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.fictiv.com/teardowns" style="color:#ef1414;" target="_blank">Fictiv Teardowns</a></span>
+* <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.ifixit.com/Teardown?page=2&sort=recent&filter=all" style="color:#ef1414;" target="_blank">iFixit</a></span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://instrumental.com/resources/teardown/" style="color:#ef1414;" target="_blank">Instrumental Inc. blog</a></span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://ntopology.com/blog/category/dfam/
 " style="color:#ef1414;" target="_blank">nTopology DfAM hacks</a></span>
