@@ -5,7 +5,6 @@ No Title
 
 #### Some of my fav webpages:-
 
-https://www.youtube.com/user/tweagar/playlists
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://www.youtube.com/user/tweagar/playlists" style="color:#ef1414;" target="_blank">This playlist</a> aka I spent too much money on education</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://meddevdesign.mit.edu/fundamentals-of-design/" style="color:#ef1414;" target="_blank">Precision design lectures</a> by Prof. Alex Slocum</span>
 * <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> <a href="https://sites.google.com/site/marclevoylectures/" style="color:#ef1414;"  target="_blank">CS178 Digital Photography lectures</a> by Prof. Marc Levoy</span>
