@@ -27,7 +27,7 @@ I'm skilled in and constantly improving at: <br/>
 <br/><br />
 
 <h4>Updates & Catching up! </h4>
-• April 2021: Moved to the SF Bay area for a exciting new assignment!!!<br/>
+• April 2021: Moved to the SF Bay area for a <a href="https://www.jobyaviation.com/about/" style="color:#ef1414;" target="_blank">exciting new assignment!!!</a><br/>
 • WIP: Job search!! Also finishing up on publishing our work on RMJ-AM hybrid joints in Cu interconnects<br/>
 • Dec 2020: Moving month! Our lab, my workplace is moving to a <a href="https://campaign.ncsu.edu/about-the-campaign/extraordinary-places/fitts-woolard-hall/" style="color:#ef1414;" target="_blank">new facility</a> on NC State campus<br/>
 • Nov 2020: Passed the Autodesk exam for <a href="https://www.linkedin.com/feed/update/urn:li:activity:6734540660394799104/" style="color:#ef1414;" target="_blank">Certified Expert in Generative Design for Manufacturing</a><br/>
