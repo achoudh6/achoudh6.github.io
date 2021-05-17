@@ -30,7 +30,11 @@ __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> VI
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Affiliated with the Welding Research Group, Materials Engineering & Technology Lab (MET) </span>                 
 
 ## Work Experience
-`Jun 2019-Present`
+`Apr 2021-May 2019`
+__<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Manufacturing Engineer, Joby Aviation </span>__
+- <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Powertrain & Electronics Mfg. team @980 </span>
+
+`Jun 2019-Apr 2021`
  __<span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Research Assistant (OPT), Center for Additive Manufacturing and Logistics, NC State</span>__
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Executed design, material and process parameter development via response mapping for Laser & Electron-beam powder-bed fusion (PBF) builds, efforts mainly focused on printing complex OFE Copper geometries for RF devices & vacuum electronics</span>
 - <span style="font-family:San Francisco, Roboto, Segoe UI; font-size:10pt;"> Developed a hybrid process workflow for an electric vehicle OEM by running high-temp polymer deposition trials on a modified printer, segmenting assemblies using DfAM, prototyping fixtures for inspection, and post-processing CT data to characterize surface roughness, internal defects & interface phenomena </span>
